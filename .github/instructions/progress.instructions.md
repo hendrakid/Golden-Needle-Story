@@ -45,19 +45,90 @@ ACT 3 — RETURN
 > **Update this section as the story develops.**
 
 ```yaml
+# Story Context (saved from existing scenes + world redesign 2026-04-12)
+world_name: "Rimbara"
+genre: "Anthropomorphic Animal Fantasy Indonesia"
+setting: "Desa Lereng-Gunung (mixed-species village on mountain slope) → Kota Anginbiru (cosmopolitan town) → Pulau Langit (Eagle's sky island fortress)"
+tone: "Emosional & syahdu, petualangan coming-of-age dengan prose lyrical"
+pov: "third-person limited (following Sulung)"
+language: "Indonesian"
+story_premise: "Sulung (young male chicken) must rescue Bungsu (younger sibling with rare pink feathers & yellow beak) who was kidnapped by Rajawali (sentient Eagle Lord) as part of ancient Chicken-Eagle clan conflict. Bungsu is held at Rajawali's Sky Island fortress."
+
+main_characters:
+  - name: "Sulung"
+    role: "Protagonist"
+    species: "Chicken (ayam jantan muda)"
+    brief: "Young male chicken who cannot fly naturally; determined to rescue Bungsu despite physical limitations; reluctant hero learning courage and combat"
+  - name: "Bungsu"
+    role: "Quest Target"
+    species: "Chicken (anak ayam betina)"
+    brief: "Younger sibling with rare pink feathers & yellow beak (matches ancient Eagle requirement); kidnapped to Sky Island; fate unknown to Sulung"
+  - name: "Kepala Desa"
+    role: "Mentor"
+    species: "Goat (kambing)"
+    brief: "Village elder, former warrior; provides guidance, training tools, and connection to Tuan Larek via recommendation letter"
+  - name: "Tuan Larek"
+    role: "Future Mentor"
+    species: "Rottweiler Dog"
+    brief: "Sword trainer in Kota Anginbiru; former military commander; owes life debt to Kepala Desa (not yet met in story)"
+  - name: "Rajawali"
+    role: "Antagonist"
+    species: "Eagle (elang)"
+    brief: "Eagle Lord ruling Sky Island fortress; kidnaps young female chickens with specific traits as part of ancient grudge; anthropomorphic sentient creature"
+
 current_act: "ACT 1"
-current_scene: "Hook Scene"
-scenes_completed: []
+current_scene: "Scene 02 completed — Sulung received letter to Kota Anginbiru (PENDING REWRITE for animal world)"
+
+scenes_completed:
+  - id: "scene-01-terik-dan-elang"
+    date: "2026-04-11"
+    summary: "Hook — Bungsu (pink-feathered chicken) kidnapped by Rajawali (Eagle Lord); Sulung witnesses helplessly"
+    status: "NEEDS REWRITE for anthropomorphic animal world (2026-04-12)"
+  - id: "scene-02-janji-dan-pedang"
+    date: "2026-04-11"
+    summary: "Kepala Desa (goat mentor) gives wooden sword, slime training quest, and recommendation letter to Tuan Larek"
+    status: "NEEDS REWRITE for anthropomorphic animal world (2026-04-12)"
+
+quests_active:
+  - id: "Q001"
+    name: "Pergi ke Hall Pelatihan"
+    status: "ready" # Sulung has letter, can depart for Kota Anginbiru
+
+quests_completed:
+  - id: "SQ001"
+    name: "Bicara ke Kepala Desa"
+    completed: "2026-04-11"
+  - id: "SQ002"
+    name: "Kalahkan Slime"
+    completed: "2026-04-11"
+
 major_choices_made: []
+
 active_threads:
-  - name: "Main Quest"
+  - name: "Rescue Bungsu from Sky Island"
     status: "active"
-    last_beat: ""
-  - name: "Character Arc - Protagonist"
+    last_beat: "Sulung (chicken) preparing to travel to Kota Anginbiru for combat training before attempting rescue of Bungsu from Eagle's fortress"
+  - name: "Character Arc - Sulung"
     status: "active"
-    last_beat: ""
-pending_payoffs: []
-foreshadowing_planted: []
+    last_beat: "From helpless witness → completed first combat (slimes) → ready to seek proper training; must overcome natural limitation (cannot fly) to reach Sky Island"
+  - name: "Ancient Chicken-Eagle Conflict"
+    status: "background mythology"
+    last_beat: "Legend establishes historical grudge over stolen pusaka; Bungsu's pink feathers & yellow beak match ancient requirement for kidnapping"
+
+pending_payoffs:
+  - "Why did Rajawali kidnap Bungsu specifically? (Answer: Pink feathers + yellow beak matches ancient legend requirement)"
+  - "Where is Bungsu now? (Answer: Held at Rajawali's Sky Island fortress - endgame location)"
+  - "Is Bungsu still alive? What condition? (Answer: TBD - fate is to be eaten, but timing unknown)"
+  - "What is false about the Chicken-Eagle legend? (Central mystery - truth to be revealed Act 2B/3)"
+  - "Where is the stolen pusaka artifact? Does it still exist? (Potential MacGuffin)"
+  - "How will non-flying Sulung reach Sky Island? (Challenge to be solved through training/magic/allies)"
+  - "What is the backstory of Kepala Desa saving Tuan Larek's life? (Optional character depth)"
+
+foreshadowing_planted:
+  - "Rajawali described as anthropomorphic eagle with 'bulu gelap seperti minyak, mata tajam seperti pecahan batu' — sentient, not mere beast (scene-01)"
+  - "Pulau Langit visible in distant clouds — mysterious floating island destination (scene-01 will need to add)"  
+  - "Kepala Desa's calm suggests he knows ancient legend and may know more than he shared (scene-02)"
+  - "Bungsu's pink feathers & yellow beak are RARE trait — villagers should recognize significance (scene-01 rewrite should add reactions)"
 ```
 
 ---

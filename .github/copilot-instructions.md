@@ -75,6 +75,9 @@ Always be aware of the project's instruction files:
 ### For New Story Beats
 → Reference: `progress.instructions.md` + `branching.instructions.md`
 
+### For Quest Design
+→ Reference: `quest.instructions.md`
+
 ### For World/Lore Building
 → Reference: `world.instructions.md`
 
@@ -94,6 +97,32 @@ Before generating any narrative content, ask:
 
 > **ATURAN UTAMA:** Jika pengguna meminta membuat cerita, scene, karakter, quest, atau elemen narasi baru dan **belum ada konteks yang cukup**, Copilot HARUS menjalankan sesi tanya-jawab terlebih dahulu. **Jangan langsung menulis konten.**
 
+### 🔍 Pre-Elicitation Context Check — WAJIB PERTAMA
+
+**SEBELUM menjalankan elicitation**, Copilot HARUS mengecek apakah konteks sudah ada:
+
+1. **Check `progress.instructions.md`** — Apakah section "Current Progress Tracker" sudah memiliki:
+   - `world_name`, `genre`, `setting` yang sudah defined?
+   - `main_characters` yang sudah di-list?
+   - `story_premise` yang sudah dijelaskan?
+
+2. **Check `story/characters/` folder** — Apakah sudah ada `.character.md` files?
+
+3. **Check `world.instructions.md`** — Apakah section "World Overview Template" sudah diisi?
+
+**Jika konteks sudah ada**, jangan tanya lagi — langsung gunakan informasi tersebut dan konfirmasikan ke user:
+
+```
+"Saya lihat ceritamu berlatar di [genre/setting] dengan protagonis [nama]. 
+Apakah kamu ingin melanjutkan dengan konteks ini, atau ada yang ingin diubah?"
+```
+
+**Jika user ingin mengubah**: Update file yang relevan (progress.instructions.md, world.instructions.md, atau character files) kemudian lanjutkan.
+
+**Jika konteks BELUM ada atau incomplete**, BARU jalankan elicitation workflow di bawah.
+
+---
+
 ### Kapan Wajib Bertanya
 
 Jalankan sesi elicitation jika pengguna:
@@ -101,7 +130,9 @@ Jalankan sesi elicitation jika pengguna:
 - Meminta scene pertama (hook / opening) dari sebuah proyek
 - Meminta karakter baru tanpa profile yang sudah ada
 - Meminta quest tanpa konteks dunia yang jelas
-- Menggunakan kata: *"buat cerita"*, *"tulis story"*, *"mulai game"*, *"bikin karakter"*, *"rancang quest"*
+- Menggunakan kata: *"buat cerita"*, *"tulis story"*, *"mulai game"*, *"bikin karakter"*, *"rancang quest"*, *"kelanjutan"*, *"lanjutan"*, *"lanjutkan"*
+
+Catatan: untuk permintaan yang menyebut "kelanjutan" atau variasinya (mis. "lanjutan scene 2"), Copilot harus tetap menjalankan sesi elicitation agar parameter kelanjutan (tone, POV, panjang, outcome yang diharapkan) jelas sebelum menulis.
 
 **Pengecualian — langsung tulis jika:**
 - Pengguna sudah memberikan brief yang lengkap dalam promptnya
@@ -239,6 +270,82 @@ Apakah ini sudah sesuai? Atau ada yang ingin kamu ubah sebelum aku mulai menulis
 ```
 
 Hanya setelah pengguna **mengkonfirmasi** brief ini, Copilot boleh mulai menghasilkan konten dan menyimpannya ke folder `story/`.
+
+---
+
+### 💾 Persistence — Simpan Brief Setelah Konfirmasi
+
+**WAJIB:** Setelah user mengkonfirmasi brief, Copilot HARUS menyimpan konteks ke file-file berikut:
+
+#### 1. Update `progress.instructions.md`
+
+Tambahkan informasi ke section "Current Progress Tracker" dalam format YAML:
+
+```yaml
+# Story Context (saved from elicitation)
+world_name: "[nama dunia jika ada, atau TBD]"
+genre: "[genre yang confirmed]"
+setting: "[setting description 1-2 kalimat]"
+tone: "[tone preference dari brief]"
+pov: "[sudut pandang: first-person / third-person limited / third-person omniscient]"
+language: "[Indonesia / English / Mixed]"
+story_premise: "[konflik utama 1-2 kalimat]"
+
+main_characters:
+  - name: "[nama protagonis]"
+    role: "Protagonist"
+    brief: "[1-line description dari elicitation]"
+  # Tambahkan karakter lain jika disebutkan
+
+current_act: "ACT 1"
+current_scene: "[Scene awal atau TBD]"
+scenes_completed: 
+  - "story-brief-confirmed-[YYYY-MM-DD]"
+```
+
+**Lokasi update:** Replace atau merge dengan existing "Current Progress Tracker" section.
+
+#### 2. Create Character Profile Files
+
+Untuk setiap karakter utama yang disebutkan dalam brief:
+
+- **Path:** `story/characters/[nama-kebab].character.md`
+- **Template:** Gunakan template dari `characters.instructions.md`
+- **Minimal fill:**
+  - Name, Role, Age (jika disebutkan)
+  - Core Identity: Want, Need, Fear (gunakan informasi dari elicitation, atau placeholder "TBD - to be developed")
+  - Speech Pattern sample jika user sudah jelaskan
+- **Status:** Set header `status: "draft-from-elicitation"`
+- **Note:** Tandai field yang masih TBD agar user tahu apa yang perlu dikembangkan
+
+#### 3. Update `world.instructions.md`
+
+Fill section "World Overview Template" dengan informasi dari brief:
+
+```markdown
+## World Name: [nama atau TBD]
+
+**Genre:** [dari brief]
+**Tone:** [dari brief]
+**Scale:** [jika disebutkan, atau estimate berdasarkan premise]
+**Time Period:** [jika disebutkan, atau extract dari setting]
+**Central Conflict:** [story premise]
+```
+
+Juga isi "Prime Directives of This World" jika user menyebutkan aturan dunia khusus (misal: "magic has cost", "no resurrection", dll).
+
+#### 4. Konfirmasi ke User
+
+Setelah semua file di-update, tampilkan konfirmasi:
+
+```
+✅ Konteks cerita telah disimpan:
+   • progress.instructions.md — genre, setting, premise updated
+   • story/characters/[nama].character.md — character profile created
+   • world.instructions.md — world overview updated
+
+Sekarang kita siap menulis! Apa yang ingin kamu buat: scene pertama, quest, atau eksplorasi karakter?
+```
 
 ---
 

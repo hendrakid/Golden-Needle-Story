@@ -9,7 +9,7 @@ tags: ["scene-02", "main", "training", "anginbiru"]
 ---
 
 ## Quest: Pergi ke Hall Pelatihan (Kota Anginbiru)
-**Location:** Mulai dari Desa Tepi-Rawa → Jalan ke Kota Anginbiru
+**Location:** Mulai dari Desa Lereng-Gunung → Jalan ke Kota Anginbiru
 **Objective:** Pergi ke Hall Pelatihan dan temui pelatih `Tuan Larek` menggunakan surat rekomendasi.
 
 ---
@@ -22,7 +22,7 @@ Persyaratan:
 
 Langkah-langkah:
 1. Persiapkan perjalanan (opsional: ajak teman di jalan).
-2. Bergerak dari Desa Tepi-Rawa menuju Kota Anginbiru.
+2. Bergerak dari Desa Lereng-Gunung menuju Kota Anginbiru.
 3. Cari Hall Pelatihan dan temui `Tuan Larek`.
 4. Serahkan surat rekomendasi untuk diterima sebagai murid.
 

@@ -9,8 +9,8 @@ tags: ["scene-02", "talk", "elder"]
 ---
 
 ## Quest: Bicara ke Kepala Desa
-**Location:** Desa Tepi-Rawa — Halaman Kepala Desa
-**Objective:** Temui Kepala Desa dan dengarkan tugasnya.
+**Location:** Desa Lereng-Gunung — Halaman Kepala Desa  
+**Objective:** Temui Kepala Desa (kambing elder) dan dengarkan tugasnya.
 
 ---
 

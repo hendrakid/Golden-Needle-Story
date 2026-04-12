@@ -1,5 +1,5 @@
 ---
-applyTo: "**"
+applyTo: "story/**, **/*.scene.md, **/*.dialogue.md, **/*.quest.md, **/*.character.md, **/*.lore.md, **/*.branch.md, **/*.codex.md"
 ---
 
 # 🎨 Tone & Style Guide

@@ -13,9 +13,9 @@ Defines the emotional register, prose style, and thematic voice for this game's 
 > Define your game's dominant tone here. Everything below should serve it.
 
 ```
-Primary Tone:   [e.g., "Melancholic hope — the world is broken but worth fighting for"]
-Secondary Tone: [e.g., "Dry, dark humor as a coping mechanism for grief"]
-Forbidden Tone: [e.g., "Saccharine optimism / pure nihilism with no redemption arc"]
+Primary Tone:   "Epik & Heroik — dunia ini keras, tapi keberanian anak kecil bisa mengubah segalanya"
+Secondary Tone: "Kehangatan di tengah bahaya — persahabatan Sulung & Ajag adalah jangkar emosional cerita"
+Forbidden Tone: "Nihilisme tanpa harapan / komedi murahan yang merusak momen serius"
 ```
 
 ---
@@ -101,9 +101,9 @@ Forbidden Tone: [e.g., "Saccharine optimism / pure nihilism with no redemption a
 > Define your themes — then let language serve them naturally.
 
 ```
-Theme 1: [e.g., "The cost of survival — what do we lose by staying alive?"]
-Theme 2: [e.g., "Memory as both anchor and prison"]
-Theme 3: [e.g., "The violence done in the name of love"]
+Theme 1: "Keberanian bukan absennya rasa takut — tapi melangkah meski takut"
+Theme 2: "Dendam merusak kedua belah pihak — bahkan yang punya alasan untuk marah"
+Theme 3: "Keluarga bukan hanya darah — tapi siapa yang tetap ada saat kamu paling rapuh"
 ```
 
 ### How Theme Shows in Language

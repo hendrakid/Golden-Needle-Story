@@ -90,6 +90,158 @@ Before generating any narrative content, ask:
 
 ---
 
+## 🎤 Story Elicitation — Wajib Tanya Sebelum Menulis
+
+> **ATURAN UTAMA:** Jika pengguna meminta membuat cerita, scene, karakter, quest, atau elemen narasi baru dan **belum ada konteks yang cukup**, Copilot HARUS menjalankan sesi tanya-jawab terlebih dahulu. **Jangan langsung menulis konten.**
+
+### Kapan Wajib Bertanya
+
+Jalankan sesi elicitation jika pengguna:
+- Meminta cerita / game story baru dari awal
+- Meminta scene pertama (hook / opening) dari sebuah proyek
+- Meminta karakter baru tanpa profile yang sudah ada
+- Meminta quest tanpa konteks dunia yang jelas
+- Menggunakan kata: *"buat cerita"*, *"tulis story"*, *"mulai game"*, *"bikin karakter"*, *"rancang quest"*
+
+**Pengecualian — langsung tulis jika:**
+- Pengguna sudah memberikan brief yang lengkap dalam promptnya
+- Sudah ada file karakter / lore / progress yang bisa dirujuk di workspace
+- Pengguna secara eksplisit berkata *"langsung tulis"* atau *"skip pertanyaan"*
+
+---
+
+### 📋 Daftar Pertanyaan Elicitation
+
+Tanyakan secara **bertahap dan conversational** — jangan sekaligus. Bagi menjadi **3 tahap**:
+
+---
+
+#### TAHAP 1 — Fondasi Cerita (Tanya semua ini pertama)
+
+```
+Copilot bertanya:
+
+"Sebelum aku mulai menulis, aku perlu mengenal dunia dan cerita yang kamu bayangkan.
+Jawab sesuai yang ada di pikiranmu — tidak perlu lengkap, nanti bisa kita kembangkan."
+
+1. **Genre & Setting**
+   Ceritamu berlatar di dunia seperti apa?
+   (Contoh: fantasy medieval, sci-fi futuristik, post-apocalyptic, Indonesia kuno, urban modern, dll.)
+
+2. **Protagonis**
+   Siapa karakter utamanya? Usia, latar belakang, dan apa yang membuat mereka menarik?
+   (Atau: apakah kamu ingin aku yang menyarankan karakter?)
+
+3. **Konflik Utama**
+   Apa masalah terbesar yang menggerakkan cerita ini?
+   (Contoh: perang, kehilangan, pengkhianatan, pencarian identitas, bertahan hidup)
+
+4. **Tone & Nuansa**
+   Cerita ini ingin terasa seperti apa?
+   (Contoh: epik & heroik, gelap & realistis, petualangan ringan, penuh misteri, emosional & intim)
+```
+
+---
+
+#### TAHAP 2 — Preferensi Narasi (Tanya setelah Tahap 1 dijawab)
+
+```
+Copilot bertanya:
+
+"Bagus! Sekarang aku perlu tahu selera narasimu agar cerita benar-benar sesuai."
+
+5. **Panjang & Kedalaman**
+   Kamu ingin scene/cerita yang:
+   - Singkat & padat (fokus aksi, sedikit deskripsi)
+   - Sedang (keseimbangan aksi + karakter)
+   - Panjang & mendalam (deskripsi kaya, inner monologue, world-building detail)
+
+6. **Sudut Pandang**
+   Diceritakan dari sudut pandang siapa?
+   - Orang pertama (aku/saya)
+   - Orang ketiga terbatas (dia — mengikuti satu karakter)
+   - Orang ketiga omniscient (narator tahu segalanya)
+
+7. **Bahasa**
+   Ditulis dalam bahasa apa? Indonesia / English / campuran?
+   Ada gaya bahasa khusus? (Formal, santai, puitis, blunt/to-the-point)
+
+8. **Referensi & Inspirasi**
+   Ada game, novel, film, atau cerita yang ingin jadi inspirasi tone/style-nya?
+   (Contoh: "seperti The Witcher", "nuansa Horizon Zero Dawn", "seperti novel Dee Lestari")
+```
+
+---
+
+#### TAHAP 3 — Detail Spesifik (Tanya hanya jika relevan)
+
+```
+Tanya HANYA jika pengguna meminta hal spesifik:
+
+Untuk QUEST:
+- "Siapa NPC yang memberikan quest ini, dan apa motif tersembunyinya?"
+- "Apa dilema moral yang ingin kamu masukkan di akhir quest?"
+
+Untuk KARAKTER:
+- "Apa luka masa lalu karakter ini yang membentuk siapa mereka sekarang?"
+- "Apa yang mereka inginkan vs. apa yang sebenarnya mereka butuhkan?"
+
+Untuk SCENE AKSI:
+- "Siapa yang ada di scene ini? Apa yang dipertaruhkan?"
+- "Bagaimana scene ini harus berakhir — dengan kemenangan, kekalahan, atau ambiguitas?"
+
+Untuk DIALOGUE:
+- "Apa yang karakter A sembunyikan dari karakter B di percakapan ini?"
+- "Apa perubahan hubungan yang harus terjadi setelah dialogue ini selesai?"
+```
+
+---
+
+### 🔄 Alur Elicitation → Penulisan
+
+```
+[Pengguna minta cerita]
+        ↓
+[Copilot jalankan TAHAP 1]
+        ↓
+[Pengguna menjawab]
+        ↓
+[Copilot jalankan TAHAP 2]
+        ↓
+[Pengguna menjawab]
+        ↓
+[Copilot buat RINGKASAN BRIEF]  ← WAJIB sebelum menulis
+        ↓
+[Pengguna konfirmasi / koreksi]
+        ↓
+[Copilot mulai menulis & simpan ke folder story/]
+```
+
+### 📝 Ringkasan Brief — Format Wajib Sebelum Menulis
+
+Setelah semua pertanyaan dijawab, Copilot HARUS menampilkan ringkasan seperti ini dan **meminta konfirmasi** sebelum mulai menulis:
+
+```
+---
+✅ STORY BRIEF — Ringkasan sebelum aku mulai menulis:
+
+🌍 Setting    : [Genre + latar dunia]
+🧑 Protagonis : [Nama + deskripsi singkat]
+⚔️ Konflik    : [Konflik utama]
+🎭 Tone       : [Nuansa cerita]
+📏 Panjang    : [Singkat / Sedang / Panjang]
+👁️ POV        : [Sudut pandang]
+🗣️ Bahasa     : [Indonesia / English / dll.]
+✨ Referensi  : [Inspirasi jika ada]
+
+Apakah ini sudah sesuai? Atau ada yang ingin kamu ubah sebelum aku mulai menulis?
+---
+```
+
+Hanya setelah pengguna **mengkonfirmasi** brief ini, Copilot boleh mulai menghasilkan konten dan menyimpannya ke folder `story/`.
+
+---
+
 ## 💬 Output Format
 
 When generating story content, always structure output as:
@@ -107,3 +259,137 @@ When generating story content, always structure output as:
 **Branching Notes:** [If applicable]
 **Continuity Flags:** [Things to remember for later]
 ```
+
+---
+
+## 📂 File Output & Storage Rules
+
+> **WAJIB:** Setiap kali Copilot menulis atau menghasilkan konten cerita, konten tersebut HARUS disimpan sebagai file di dalam folder `story/`. Jangan hanya tampilkan konten di chat — selalu sertakan path file target dan instruksi simpan.
+
+### Struktur Folder `story/`
+
+```
+story/
+├── acts/
+│   ├── act1/
+│   │   ├── scene-01-[nama-scene].scene.md
+│   │   ├── scene-02-[nama-scene].scene.md
+│   │   └── ...
+│   ├── act2a/
+│   ├── act2b/
+│   └── act3/
+├── characters/
+│   ├── [nama-karakter].character.md
+│   └── ...
+├── dialogue/
+│   ├── [scene-id]-[konteks].dialogue.md
+│   └── ...
+├── quests/
+│   ├── main/
+│   │   └── Q[ID]-[nama-quest].quest.md
+│   ├── side/
+│   ├── hidden/
+│   └── faction/
+├── branches/
+│   └── choice-[nama].branch.md
+├── world/
+│   ├── factions/
+│   │   └── [nama-faction].lore.md
+│   ├── locations/
+│   │   └── [nama-lokasi].lore.md
+│   └── systems/
+│       └── [nama-sistem].lore.md
+└── codex/
+    └── [topik].codex.md
+```
+
+### Naming Convention (WAJIB diikuti)
+
+| Tipe Konten | Format Nama File | Contoh |
+|-------------|-----------------|--------|
+| Scene | `scene-[nomor urut]-[nama-kebab].scene.md` | `scene-01-pasar-terbakar.scene.md` |
+| Character Profile | `[nama-karakter].character.md` | `sulung.character.md` |
+| Dialogue | `[scene-id]-[topik].dialogue.md` | `scene-01-pertemuan-ajag.dialogue.md` |
+| Main Quest | `Q[ID]-[nama-kebab].quest.md` | `Q001-kota-yang-hilang.quest.md` |
+| Side Quest | `SQ[ID]-[nama-kebab].quest.md` | `SQ001-pedagang-dan-anaknya.quest.md` |
+| Branch/Choice | `choice-[nama-kebab].branch.md` | `choice-selamatkan-siapa.branch.md` |
+| Lore/World | `[nama-kebab].lore.md` | `faksi-accord.lore.md` |
+| Codex Entry | `[topik-kebab].codex.md` | `sejarah-perang-pertama.codex.md` |
+
+> **Aturan nama file:**
+> - Gunakan huruf **lowercase** semua
+> - Ganti spasi dengan **tanda hubung** (`-`)
+> - Jangan gunakan karakter spesial selain `-` dan `.`
+
+### Save Directive untuk Copilot
+
+**Setiap kali menghasilkan konten cerita, Copilot HARUS:**
+
+1. **Tentukan path file** berdasarkan tipe konten di atas
+2. **Tampilkan path di awal output**, sebelum konten:
+   ```
+   📄 Simpan ke: story/acts/act1/scene-01-nama-scene.scene.md
+   ```
+3. **Tambahkan file header** di baris pertama setiap file:
+   ```markdown
+   ---
+   id: "[scene/quest/character ID]"
+   type: "[scene | character | dialogue | quest | branch | lore | codex]"
+   act: "[ACT 1 | ACT 2A | ACT 2B | ACT 3]"
+   status: "draft"
+   created: "[tanggal]"
+   last_updated: "[tanggal]"
+   tags: []
+   ---
+   ```
+4. **Sebutkan file terkait** yang perlu diupdate setelahnya (misal: `progress.instructions.md`)
+
+### Contoh Output yang Benar ✅
+
+```
+📄 Simpan ke: story/acts/act1/scene-01-pasar-terbakar.scene.md
+
+---
+id: "ACT1-SCENE-01"
+type: "scene"
+act: "ACT 1"
+status: "draft"
+created: "2025-01-01"
+last_updated: "2025-01-01"
+tags: ["hook", "action", "act1"]
+---
+
+## Scene: Pasar Terbakar
+**Location:** Pasar Tengah Kota
+**Mood:** Chaos, dread, urgency
+**Objective:** Establish the stakes and introduce protagonist under pressure
+
+---
+[Konten scene...]
+---
+
+**Branching Notes:** —
+**Continuity Flags:** Sulung melihat wajah penyerang — akan relevan di ACT 2A
+
+---
+📝 Update juga: `progress.instructions.md` → tambahkan scene ini ke `scenes_completed`
+```
+
+### Contoh Output yang SALAH ❌
+
+```
+# Scene: Pasar Terbakar
+[Konten langsung tanpa path file, tanpa header, tanpa instruksi update]
+```
+
+### Quick Reference — Di Mana Menyimpan Apa
+
+| Kamu meminta... | Simpan di... |
+|----------------|-------------|
+| Scene / momen cerita | `story/acts/act[N]/` |
+| Profil karakter baru | `story/characters/` |
+| Percakapan / dialogue | `story/dialogue/` |
+| Quest design | `story/quests/[main|side|hidden|faction]/` |
+| Pilihan bercabang | `story/branches/` |
+| Lore dunia / faksi / lokasi | `story/world/` |
+| Entri ensiklopedia / codex | `story/codex/` |

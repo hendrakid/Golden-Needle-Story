@@ -8,6 +8,31 @@ Standards for writing authentic, character-driven, emotionally resonant dialogue
 
 ---
 
+## 📝 Style Instructions: Writing Like a Novel
+
+- **Show, don't tell.** Use sensory detail, small actions, and sentence rhythm to create a novel-like atmosphere.
+- **Rhythm & Description:** Vary sentence length to control reader breath — shorten during tension, lengthen during intimacy.
+- **Tone & Nuance in Dialogue:** When necessary, add brief tone or nuance cues to clarify subtext (examples: *in a sharp tone*, *his voice trembled*, *a soft laugh*). Avoid over-explaining; prefer micro-beats that enrich the reading.
+- **How to mark tone:** Use short action beats around dialogue or square brackets for in-text tone notes; for example: "You're late." (cold tone) or "Sorry." He exhales; his voice trembles.
+- **Balance description and dialogue:** Don't replace a character's voice with long exposition — use tone cues only to support subtext.
+
+**Short example — from flat to nuanced**
+
+❌ Flat:
+```
+"You're late."
+"Sorry."
+```
+
+✅ Nuanced (novel-like):
+```
+"You're late." Her voice was dry, without warmth — like a door closing.
+"Sorry." He drew a long breath; his voice trembled, then he let the silence answer.
+```
+
+
+---
+
 ## The Core Truth of Dialogue
 
 > People don't say what they mean. They say what they **dare**, what they **believe will work**, or what **protects them**. Write that — not the direct version.
@@ -76,6 +101,10 @@ These are **dialogue tools**, not mistakes:
 She didn't even look up from the map.
 "We could not."
 ```
+
+### Formatting: Line breaks for dialogue
+
+When writing dialogue, put each spoken line on its own paragraph and ensure there is a clear blank line between distinct dialogue beats or exchanges. This helps readability and makes dialogue easier to parse in editors and tools.
 
 ---
 

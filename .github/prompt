@@ -1,0 +1,28 @@
+Berikut tiga contoh prompt lengkap siap pakai (tinggal salin & sesuaikan) untuk minta cerita selanjutnya.
+
+Prompt ringkas — minta sesi tanya otomatis
+"Sebelum menulis, jalankan TAHAP 1 untuk elicitation: 1) Genre & setting, 2) Protagonis (usia, latar, motivasi), 3) Konflik utama, 4) Tone & nuansa. Setelah aku jawab, lanjut ke TAHAP 2 dan buat ringkasan brief untuk konfirmasi."
+
+Prompt siap-tulis (brief lengkap + minta langsung tulis)
+"Brief lengkap — tulis sekarang:
+
+Setting: fantasy-kuno, desa pesisir yang terpecah dua faksi karena sumber air suci.
+Protagonis: Mira, 12 tahun, yatim, tukang jahit, gigih, ingin menemukan adik yang hilang.
+Konflik: Faksi berperang memperebutkan artefak yang bisa menyembuhkan; Mira harus memilih membantu faksi atau menyelamatkan keluarganya.
+Tone: epik & hangat, sedikit melankolis.
+Panjang: sedang (800–1200 kata).
+POV: orang ketiga terbatas (fokus Mira).
+Bahasa: Indonesia, gaya puitis tapi lugas.
+Inspirasi: nuansa Horizon Zero Dawn + mitologi lokal.
+Tujuan: tulis scene pembuka (hook) yang menunjukkan Mira berjanji kepada adiknya dan memicu perjalanan. Setelah menulis, tampilkan header file dan path tujuan (sesuai aturan repo) lalu simpan. Jika membutuhkan konfirmasi ringkasan, tanyakan sebelum menyimpan."
+Prompt scene khusus + branching
+"Brief untuk scene:
+Scene: 'Janji di Dermaga'
+Location: dermaga desa saat fajar
+Mood: hangat namun tegang
+Objective: tunjukkan janji Mira dan hadirkan dilema moral pertama
+Karakter hadir: Mira, adik (Lian), kepala desa (singkat)
+Stakes: Lian diculik oleh penjaga faksi; Mira berjanji menjemputnya kembali tapi harus memilih jalur berbahaya.
+Outcome yang diinginkan: akhir terbuka → pilihan bercabang (selamatkan Lian sekarang vs cari bantuan).
+Panjang: ~600 kata, POV Mira, Indonesia.
+Tambahkan catatan branching: dua pilihan bermakna dengan konsekuensi jangka panjang. Simpan scene sebagai draft setelah konfirmasi brief."

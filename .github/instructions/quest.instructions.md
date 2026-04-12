@@ -123,14 +123,17 @@ HIDDEN (revealed mid-quest)
 
 ### 🎁 Rewards
 
-**Narrative Rewards (MOST IMPORTANT):**
+**Catatan Penting:** Untuk saat ini, reward quest dibatasi hanya pada tiga jenis: **Exp**, **Gold**, dan **Item**. Jenis reward lain (mis. unlocks, mata uang selain Gold, perks unik) akan ditambahkan di masa mendatang setelah arahan desain lebih lanjut.
+
+**Narrative Rewards (PALING PENTING):**
 - [What story knowledge / relationship / world understanding is gained]
 
-**Mechanical Rewards:**
-- XP: [Amount]
-- Items: [What and why it's thematically appropriate]
-- Currency: [Amount]
-- Unlocks: [New area / ability / quest / relationship]
+**Mechanical Rewards (hanya yang diizinkan):**
+- Exp: [Amount — jelaskan skala/kenaikan atau rentang yang wajar]
+- Gold: [Amount — gunakan `Gold` sebagai mata uang standar untuk reward quest]
+- Item: [Deskripsi item — jelaskan fungsi dan alasan tematisnya]
+
+Semua reward harus tematik dan memiliki justifikasi naratif: pilih jumlah `Exp`/`Gold` atau jenis `Item` yang masuk akal untuk konteks quest dan tidak merusak keseimbangan progression.
 
 **Relationship Impact:**
 - [NPC Name]: [+/-] [Why]

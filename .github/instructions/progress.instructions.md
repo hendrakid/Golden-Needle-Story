@@ -145,3 +145,24 @@ When asked to write a new scene:
 3. Ensure there's an **open hook** at the scene's end
 4. Update `scenes_completed` after writing
 5. Log any new `foreshadowing_planted`
+
+---
+
+## ✅ Quest Acceptance Marker
+
+When a scene includes the protagonist Sulung receiving or accepting a quest, the scene text must include a visible, machine-friendly marker using the exact format below:
+
+- - QUEST [ID-Title] ACCEPTED -
+
+Examples:
+- - QUEST Q002-Selamatkan-Bungsu ACCEPTED -
+- - QUEST SQ002-Kalahkan-Slime ACCEPTED -
+
+Guidelines:
+- Place the marker immediately after the acceptance beat as a standalone line so tools and reviewers can detect it reliably.
+- Use the quest's ID followed by a hyphen and a short title (replace spaces with hyphens). Prefer the same kebab-title used in the quest filename when possible.
+- Keep the whole marker on one line and use uppercase `QUEST` and `ACCEPTED` exactly as shown.
+- Update `active_threads` with the quest name/status and add any relevant flags to `major_choices_made`.
+- When applicable, create or update the corresponding quest file in `story/quests/` (follow existing naming conventions) and reference the quest ID and title used in the marker.
+
+This marker is required for all scenes where Sulung explicitly accepts a quest.

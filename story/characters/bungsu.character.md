@@ -1,17 +1,37 @@
 ---
 id: "CHAR-bungsu"
 type: "character"
-status: "updated-for-animal-world"
+status: "DARK-VERSION-UPDATED"
 created: "2026-04-12"
-last_updated: "2026-04-12"
-tags: ["quest-target", "act1", "kidnapped", "chicken", "pink-feathers", "rare-trait"]
+last_updated: "2026-04-18"
+tags: ["quest-target", "act1-kidnapped", "act3-DIES", "jiwa-peri", "spirit-companion", "chicken", "pink-feathers", "rare-trait", "tragic"]
 ---
 
 ## BUNGSU
 
-**Role:** Quest Target / Younger Sibling (currently kidnapped)
-**Species:** Chicken (Anak Ayam Betina / Young Female Chicken)
-**Age:** Child (significantly younger than Sulung, pre-adolescent)
+**Role:** Quest Target (ACT 1-2) → **MURDERED VICTIM (Q017)** → **JIWA PERI / Spirit Companion (Q018-onwards)**
+**Species:** Chicken (Anak Ayam Betina / Young Female Chicken) — PHYSICAL FORM DECEASED
+**Age:** Child (eternally — spirit form does not age)
+**Archetype:** The Innocent / The Catalyst / **The Eternal Companion**
+
+---
+
+### ⚠️ **CRITICAL DARK VERSION CHANGES**
+
+**BUNGSU DIES IN Q017** — Murdered by Rajawali in front of Sulung as punishment for defiance.
+
+**BECOMES JIWA PERI (Fairy Spirit) IN Q018** — Soul automatically transfers to Sulung via sibling bond magic.
+
+**PERMANENT STATE:** Cannot be resurrected or freed. Bound to Sulung for his entire life.
+
+**DUAL CHARACTER ENTRY:**
+- **Section 1:** Bungsu ALIVE (Scene 01 - Q016) — Physical form, kidnapped, rescued briefly
+- **Section 2:** Bungsu JIWA PERI (Q018-Q020 + Endings) — Spirit form, companion, eternal bond
+
+---
+
+## PART 1: BUNGSU (ALIVE) — Scene 01 through Q017
+
 **Archetype:** The Innocent / The Catalyst
 
 ### Core Identity
@@ -68,10 +88,130 @@ tags: ["quest-target", "act1", "kidnapped", "chicken", "pink-feathers", "rare-tr
 - Physical condition unknown — may be malnourished, injured, or surprisingly resilient
 - **Fate (Planned by Rajawali):** To be eaten (dark stakes — Bungsu doesn't know this yet)
 
-### Arc Across Acts
-- **Act 1:** Inciting incident — kidnapped by eagle, becomes quest objective
-- **Act 2:** [TBD - status unknown, possibly held in mountains]
-- **Act 3:** [TBD - rescue and aftermath]
+### Arc While Alive
+- **Scene 01 (ACT 1 Opening):** Playing in village → kidnapped by Rajawali → inciting incident
+- **ACT 1-2:** Held captive at Pulau Langit (off-screen)
+- **Q016 (ACT 3):** BRIEF REUNION — Sulung finds Bungsu alive in cage, embraces her, Rajawali interrupts
+- **Q017 (ACT 3 — DEATH):** **MURDERED by Rajawali** in front of Sulung as ultimate cruelty; soul transfers to Sulung automatically
+
+---
+
+## PART 2: BUNGSU (JIWA PERI / SPIRIT) — Q018 onwards
+
+### Core Identity (Spirit Form)
+- **Want:** To stay with Sulung forever; to help him succeed; to see justice for herself and all victims
+- **Need:** To accept her death; to guide Sulung without him losing himself to vengeance
+- **Fear:** Sulung dying (because she'd lose him); Sulung becoming a monster like Rajawali; being forgotten
+- **Wound:** Trauma of death remains (remembers being killed); helplessness of being unable to physically interact
+- **Lie They Believe:** "I'm a burden on Kakak because he uses my soul to fly" (guilt over being dead but still 'useful')
+- **Truth They Learn:** "My love for Kakak is the greatest gift I can give; I'm not a burden, I'm his strength"
+
+### Voice & Speech Pattern (As Spirit)
+- **Vocabulary:** Still childlike but slightly wiser (death brings understanding); uses "Kak" / "Kakak" constantly
+- **Sentence Length:** Short, direct, but occasionally profound (innocence mixed with afterlife perspective)
+- **Speech Quirks:** 
+  - Voice has slight ethereal echo (otherworldly quality)
+  - Sometimes forgets she's dead, tries to touch things, hand passes through
+  - Laughs when flying (pure joy despite tragedy)
+- **Under Pressure:** Shouts warnings to Sulung ("KAK! BEHIND YOU!"); protective despite being powerless
+- **Sample Lines (Spirit):**
+  - Encouraging: "You can do it, Kak! I believe in you!"
+  - Wistful: "I wish I could hug you for real... but this is enough."
+  - Protective: "Don't lose yourself because of me, Kak. Promise?"
+  - Joyful: "We're flying together! I always dreamed of this!"
+  - Guiding: "He's lying, Kak. I can see it in his eyes."
+  - Sad: "I remember it hurting... but then I felt you calling me. So I came."
+
+### Physical Description (Jiwa Peri Form)
+
+**Spirit Manifestation:**
+- **Translucent body:** Semi-transparent, shimmering like heat haze or glass in sunlight
+- **Pink feathers:** Still present but GLOWING softly, ethereal quality, sometimes semi-transparent
+- **Yellow beak:** Luminous, glows faintly golden
+- **Size:** Same as when alive (child-sized), does NOT age or change
+- **Eyes:** Bright, aware, FULL OF LIFE despite being dead — windows to her consciousness
+- **Aura:** Warm pink-golden glow surrounds her constantly (2-3 foot radius)
+- **Movement:** FLOATS/HOVERS slightly off ground (never walks); can fly freely, passes through solid objects
+
+**Distinctive Spirit Features:**
+- **Visibility:** ONLY Sulung can see/hear her (others see nothing or faint pink shimmer if emotional)
+- **Incorporeal:** Cannot touch or be touched physically (warmth felt but no solidity)
+- **Emotional Responsiveness:** Glows brighter when happy; dims when sad; pulses with intensity when scared/excited
+- **Flight Manifestation:** When Sulung uses Sayap Emas, Bungsu's spirit becomes MORE visible, pink energy trails follow their movements together
+- **Interaction:** Can gesture, "try" to hug (warmth felt), speak (only Sulung hears), react to environment
+
+**Visual Comparison:**
+- **Fairy-like:** Think Studio Ghibli spirit aesthetics — beautiful, innocent, slightly melancholic
+- **Child Ghost:** Retains childlike innocence but aware she's dead
+- **Companion Spirit:** Always near Sulung (within 10-15 feet typically), follows him everywhere
+
+### Jiwa Peri Personality (Spirit State)
+
+**CORE TRAIT: Stays Cheerful Despite Death**
+- Does NOT become dark, vengeful, or bitter
+- Retains childhood innocence and optimism ("We can still be together!")
+- Accepts death surprisingly well (because she's with Kakak)
+- Provides emotional anchor for Sulung (keeps him from descending into darkness)
+
+**Changes from Life:**
+- Slightly more mature (death grants perspective)
+- More protective (tries to warn/guide Sulung)
+- Occasionally wistful (misses physical sensations — wind on feathers, taste of food, hugs)
+- Sometimes forgets limitations (tries to pick up object, hand passes through, giggles at herself)
+
+**Relationship Dynamics (Spirit):**
+| Character | Relationship | Dynamic |
+|-----------|-------------|---------|
+| Sulung | Kakak / Eternal Bond | Symbiotic — her soul powers his wings; his life sustains her existence; deeply loving despite tragedy |
+| Good Eagle | Grateful | Thanks him for revealing truth and helping Sulung; he's one of few who acknowledges her presence |
+| Rajawali | Hatred (Hidden) | Tries not to show it for Sulung's sake, but she HATES him; wants justice, not vengeance |
+| Allies | Invisible Friend | They can't see her, but she comments on them to Sulung; enjoys watching interactions |
+| Other NPCs | Observer | Watches world she can no longer touch; finds beauty in small things Sulung overlooks |
+
+### Jiwa Peri Abilities & Limitations
+
+**WHAT SHE CAN DO:**
+- **Speak** (only Sulung hears)
+- **Float/Fly** (unlimited, passes through walls)
+- **Observe** (can scout ahead, report back)
+- **Emotional Support** (encouragement, warnings, companionship)
+- **Empower Sayap Emas** (her soul is the fuel/key for Golden Wings — symbiotic, not consumed)
+- **React Emotionally** (cry, laugh, show expressions)
+- **Remember** (retains all memories from life + death moment)
+
+**WHAT SHE CANNOT DO:**
+- **Physical Interaction:** Cannot touch, move objects, fight, or affect physical world
+- **Be Seen by Others:** Only Sulung sees/hears her (exception: VERY faint glow if Sulung's emotions intense)
+- **Leave Sulung:** Bound to him; cannot travel beyond ~100 feet radius (tethered by soul bond)
+- **Combat Assistance:** NO gameplay abilities (purely narrative companion)
+- **Resurrection:** IMPOSSIBLE — she is permanently dead physically
+- **Liberation:** Cannot be "freed" — bound for Sulung's entire life
+
+### Arc as Jiwa Peri
+- **Q018 (Manifestation):** Awakens as spirit when Sayap Emas activates; emotional reunion; accepts new existence
+- **Q019 (Tutorial):** Teaches Sulung to fly; joyful experience despite tragedy; establishes companion dynamic
+- **Q020 (Final Battle):** Actively participates in dialogue during boss fight; provides moral guidance before final choice; witness to ending
+- **Endings (Varies):**
+  - **Ending A-C:** Remains with Sulung as eternal companion through epilogue
+  - **Ending D1:** Finally freed when Sulung dies — reunited in death (peace)
+  - **Ending E:** Both burn out together — reunited as they fade
+
+### Role as Spirit Companion
+
+**Narrative Functions:**
+1. **Emotional Anchor:** Keeps Sulung grounded; prevents him from becoming monster
+2. **Moral Compass:** Reminds him why he fights (justice, not just revenge)
+3. **Comic Relief:** Occasionally lighthearted moments (tries to eat food, realizes she can't, laughs)
+4. **Tragic Reminder:** Every scene with her spirit reminds player: she's DEAD, this is bittersweet
+5. **Flight Symbolism:** Chicken flying with eagle's gift powered by dead sister's soul = ultimate collaboration
+6. **Companion Presence:** Player never feels alone — Bungsu always there
+
+### Themes Embodied (Spirit)
+- **Love Transcends Death:** Soul stays because bond too strong to break
+- **Sacrifice & Gift:** Her death painful, but her soul becomes Sulung's strength
+- **Eternal Bond:** Siblings forever, even when one is ghost
+- **Bittersweet Victory:** She's "alive" in spirit but not truly — happiness tinged with sorrow
+- **Acceptance:** She accepts death; teaches Sulung to accept loss while moving forward
 
 ### Backstory
 - Lives in Desa Lereng-Gunung with Sulung (mixed-species village)

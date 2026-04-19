@@ -45,39 +45,137 @@ ACT 3 — RETURN
 > **Update this section as the story develops.**
 
 ```yaml
-# Story Context (saved from existing scenes + world redesign 2026-04-12)
+# Story Context (DARK VERSION — Updated 2026-04-18)
 world_name: "Rimbara"
-genre: "Anthropomorphic Animal Fantasy Indonesia"
-setting: "Desa Lereng-Gunung (mixed-species village on mountain slope) → Kota Anginbiru (cosmopolitan town) → Pulau Langit (Eagle's sky island fortress)"
-tone: "Emosional & syahdu, petualangan coming-of-age dengan prose lyrical"
+genre: "Anthropomorphic Animal Dark Fantasy Indonesia"
+setting: "Desa Lereng-Gunung (mixed-species village) → Kota Anginbiru (cosmopolitan town) → Pulau Langit (Eagle's sky fortress)"
+tone: "BITTERSWEET DARK FANTASY — Tragic but hopeful; loss & grief themes; sibling bond transcends death"
 pov: "third-person limited (following Sulung)"
 language: "Indonesian"
-story_premise: "Sulung (young male chicken) must rescue Bungsu (younger sibling with rare pink feathers & yellow beak) who was kidnapped by Rajawali (sentient Eagle Lord) as part of ancient Chicken-Eagle clan conflict. Bungsu is held at Rajawali's Sky Island fortress."
+
+# DARK VERSION PREMISE (2026-04-18 CRITICAL UPDATE)
+story_premise: |
+  Sulung (young male chicken) embarks on journey to rescue Bungsu (younger sibling with rare pink 
+  feathers & yellow beak) who was kidnapped by Rajawali (Eagle Lord) as part of fabricated legend.
+  
+  **CRITICAL TWIST:** Sulung FINDS Bungsu alive in ACT 3, but FAILS to save her. Rajawali murders 
+  Bungsu publicly to punish Sulung's defiance. Bungsu's soul automatically transfers to Sulung via 
+  sibling bond magic, manifesting as JIWA PERI (fairy spirit companion) visible only to Sulung.
+  
+  Powered by Bungsu's soul through Golden Wings artifact (gifted by Good Eagle, Rajawali's estranged 
+  brother), Sulung returns to confront Rajawali. Story shifts from "rescue mission" to "tragic 
+  vengeance/justice with ghost sibling." Multiple bittersweet endings based on player choices.
+  
+  **NO RESURRECTION POSSIBLE** — Bungsu remains dead physically in ALL endings. She exists as 
+  permanent spirit companion bound to Sulung for his entire life.
 
 main_characters:
   - name: "Sulung"
     role: "Protagonist"
     species: "Chicken (ayam jantan muda)"
-    brief: "Young male chicken who cannot fly naturally; determined to rescue Bungsu despite physical limitations; reluctant hero learning courage and combat"
+    brief: "Young male chicken who cannot fly naturally (ACT 1-2); learns to fly via Sayap Emas powered by Bungsu's soul (ACT 3); transforms from reluctant hero to determined avenger/justice-seeker carrying sister's spirit"
+    
   - name: "Bungsu"
-    role: "Quest Target"
+    role: "Quest Target (ACT 1-2) → JIWA PERI Spirit Companion (ACT 3)"
     species: "Chicken (anak ayam betina)"
-    brief: "Younger sibling with rare pink feathers & yellow beak (matches ancient Eagle requirement); kidnapped to Sky Island; fate unknown to Sulung"
+    brief: "Younger sibling with rare pink feathers & yellow beak; kidnapped Scene 01; DIES in Q017 (murdered by Rajawali); soul transfers to Sulung automatically; manifests as translucent fairy spirit (jiwa peri) visible ONLY to Sulung; cheerful personality despite death; powers Golden Wings; permanent companion"
+    status: "DECEASED (physically) from Q017 onwards; exists as spirit"
+    
+  - name: "Good Eagle (Elang Baik)"
+    role: "Mentor / Truth Revealer"
+    species: "Eagle (elang tua)"
+    brief: "Rajawali's estranged brother who opposed coup; rescues Sulung after Q017 defeat; reveals complete truth about fabricated legend; gives Sayap Emas (Golden Wings) to Sulung; too old/injured to fight but provides wisdom"
+    appears: "Q018 (ACT 3)"
+    
   - name: "Kepala Desa"
-    role: "Mentor"
+    role: "Initial Mentor"
     species: "Goat (kambing)"
-    brief: "Village elder, former warrior; provides guidance, training tools, and connection to Tuan Larek via recommendation letter"
+    brief: "Village elder, former warrior; provides guidance, training tools, and connection to Tuan Larek"
+    
   - name: "Tuan Larek"
-    role: "Future Mentor"
+    role: "Combat Trainer"
     species: "Rottweiler Dog"
-    brief: "Sword trainer in Kota Anginbiru; former military commander; owes life debt to Kepala Desa (not yet met in story)"
+    brief: "Sword trainer in Kota Anginbiru; former military commander; trains Sulung in combat fundamentals"
+    
   - name: "Rajawali"
-    role: "Antagonist"
+    role: "Main Antagonist"
     species: "Eagle (elang)"
-    brief: "Eagle Lord ruling Sky Island fortress; kidnaps young female chickens with specific traits as part of ancient grudge; anthropomorphic sentient creature"
+    brief: "Eagle Lord ruling Pulau Langit; staged coup decades ago, stole pusaka, fabricated legend to justify systematic kidnapping/murder of chickens; kills Bungsu in Q017; defeated in Q020 with fate determined by player choice"
 
 current_act: "ACT 1"
-current_scene: "Scene 02 completed — Sulung received letter to Kota Anginbiru (PENDING REWRITE for animal world)"
+current_scene: "Scene 03 completed — Sulung memulai pelatihan di Kota Anginbiru bersama Tuan Larek"
+
+# DARK VERSION QUEST PROGRESS (Updated 2026-04-19)
+total_main_quests: 20
+quests_completed: 3 (Q001-Q003 active/partial in development)
+quests_documented: 20 ✅ (ALL QUESTS FULLY DESIGNED)
+quests_pending: 0 ✅ (DESIGN PHASE COMPLETE)
+
+quest_documentation_status:
+  design_complete: "2026-04-18"
+  last_updated: "2026-04-19"
+  production_ready: true
+  
+act_breakdown:
+  ACT_1: "5/5 quests documented ✅ (Q001-Q005) — Training Arc"
+  ACT_2A: "5/5 quests documented ✅ (Q006-Q010) — Journey & Discovery, Midpoint Twist"
+  ACT_2B: "5/5 quests documented ✅ (Q011-Q015) — Truth & Preparation, Point of No Return"
+  ACT_3: "5/5 quests documented ✅ (Q016-Q020) — Tragedy → Revelation → Vengeance/Justice"
+  
+quest_files_created:
+  - "Q005: Hunter Exam + Bandit Mini-Boss (ACT 1 Finale)"
+  - "Q006: Recruit Ally 1 - Hawk/Falcon (First Companion)"
+  - "Q007: Smuggler's Bargain (Moral Grey Zone)"
+  - "Q008: Ancient Ruins (Puzzle + Lore Discovery + Optional Guardian Boss)"
+  - "Q009: Recruit Ally 2 - Stealth Expert (Prison Break)"
+  - "Q010: Scholar Revelation (MIDPOINT TWIST - Truth Begins)"
+  - "Q011: Neutral Council (Diplomacy + Flight Scroll)"
+  - "Q012: Eagle Outpost Infiltration (Stealth + Intel Gathering)"
+  - "Q013: Recruit Ally 3 - Eagle Defector (OPTIONAL - Moral Complexity)"
+  - "Q014: Forge Sky Key + Eagle Commander Boss (ACT 2B Finale)"
+  - "Q015: Point of No Return (Justice/Vengeance/Mercy Choice)"
+  - "Q016: Assault Pulau Langit (Find Bungsu Alive)"
+  - "Q017: The Fall (BUNGSU DIES - Scripted Loss)"
+  - "Q018: Jiwa Peri Revelation (Spirit Manifestation + Golden Wings)"
+  - "Q019: Return to Sky (Flight Tutorial + Preparation)"
+  - "Q020: Final Battle (Multiple Endings - Rajawali Defeated)"
+  
+critical_narrative_beats:
+  - quest: "Q005"
+    beat: "HUNTER EXAM — ACT 1 Graduation (Bandit Leader Mini-Boss)"
+    emotional_impact: "Competence achieved — ready for real journey"
+  - quest: "Q010"
+    beat: "SCHOLAR REVELATION — Truth about fabricated legend (MIDPOINT TWIST)"
+    emotional_impact: "PARADIGM SHIFT — mission changes from 'rescue from curse' to 'expose tyrant's lie'"
+  - quest: "Q015"
+    beat: "POINT OF NO RETURN — Choose Justice/Vengeance/Mercy (locks ending paths)"
+    emotional_impact: "MORAL IDENTITY — player defines who Sulung becomes"
+  - quest: "Q017"
+    beat: "BUNGSU DIES — Murdered by Rajawali, soul transfers to Sulung"
+    emotional_impact: "CRUSHING DEFEAT — darkest moment, quest objective permanently failed"
+  - quest: "Q018"
+    beat: "JIWA PERI MANIFESTATION — Bungsu appears as spirit, truth revealed, Golden Wings given"
+    emotional_impact: "CATHARSIS — grief transforms to determination"
+  - quest: "Q020"
+    beat: "FINAL BATTLE + MULTIPLE ENDINGS — Player chooses Rajawali's fate"
+    emotional_impact: "BITTERSWEET RESOLUTION — justice/vengeance/mercy with Bungsu's spirit"
+
+implementation_milestones:
+  - date: "2026-04-11"
+    milestone: "Project initiated, Scene 01-02 drafted"
+  - date: "2026-04-12"
+    milestone: "Animal world redesign, Scene 03 completed, world-building established"
+  - date: "2026-04-18"
+    milestone: "DARK VERSION designed: ACT 3 complete (Q016-Q020), Good Eagle character, Bungsu jiwa peri, multiple endings"
+  - date: "2026-04-19"
+    milestone: "✅ ALL 20 MAIN QUESTS DOCUMENTED — Design phase complete, production ready"
+    
+project_status:
+  phase: "DESIGN COMPLETE ✅"
+  next_phase: "Development / Dialogue Scripting / Asset Production"
+  completion: "100% Quest Design | 15% Overall Game Production"
+  estimated_dev_time: "12-18 months (small team, full production)"
+  vertical_slice_ready: "Yes (ACT 1 + ACT 3 = 6-9 months)"
 
 scenes_completed:
   - id: "scene-01-terik-dan-elang"
@@ -88,11 +186,21 @@ scenes_completed:
     date: "2026-04-11"
     summary: "Kepala Desa (goat mentor) gives wooden sword, slime training quest, and recommendation letter to Tuan Larek"
     status: "NEEDS REWRITE for anthropomorphic animal world (2026-04-12)"
+  - id: "scene-03-pelatihan-di-anginbiru"
+    date: "2026-04-12"
+    summary: "Sulung tiba di Kota Anginbiru, meyakinkan Tuan Larek dengan surat Kepala Desa, menjalani pelatihan dasar pedang, duel, dan mendapat arahan untuk mendaftar Hunter Association."
+    status: "DRAFT COMPLETED (2026-04-12)"
 
 quests_active:
-  - id: "Q001"
-    name: "Pergi ke Hall Pelatihan"
-    status: "ready" # Sulung has letter, can depart for Kota Anginbiru
+  - id: "Q002"
+    name: "Latihan Dasar: Boneka Dummy"
+    status: "active"
+  - id: "Q003"
+    name: "Ujian Sparring dengan Pelatih"
+    status: "pending"
+  - id: "Q004"
+    name: "Menuju Hunter Association"
+    status: "pending"
 
 quests_completed:
   - id: "SQ001"
@@ -105,18 +213,30 @@ quests_completed:
 major_choices_made: []
 
 active_threads:
-  - name: "Rescue Bungsu from Sky Island"
-    status: "active"
-    last_beat: "Sulung (chicken) preparing to travel to Kota Anginbiru for combat training before attempting rescue of Bungsu from Eagle's fortress"
+  - name: "Rescue Bungsu from Sky Island (DARK VERSION)"
+    status: "FULLY DESIGNED ✅"
+    last_beat: "Complete 20-quest arc designed: Sulung trains (ACT 1) → discovers truth (ACT 2) → finds Bungsu alive (Q016) → LOSES her to Rajawali's murder (Q017) → she becomes jiwa peri spirit (Q018) → final battle with 5+ endings (Q020)"
+    
   - name: "Character Arc - Sulung"
-    status: "active"
-    last_beat: "From helpless witness → completed first combat (slimes) → ready to seek proper training; must overcome natural limitation (cannot fly) to reach Sky Island"
-  - name: "Ancient Chicken-Eagle Conflict"
-    status: "background mythology"
-    last_beat: "Legend establishes historical grudge over stolen pusaka; Bungsu's pink feathers & yellow beak match ancient requirement for kidnapping"
+    status: "COMPLETE TRANSFORMATION DESIGNED ✅"
+    arc_progression: "Helpless witness (Scene 01) → Trained fighter (Q005) → Truth-seeker (Q010) → Morally defined (Q015) → Defeated & broken (Q017) → Empowered by love (Q018) → Victor with permanent loss (Q020)"
+    
+  - name: "Ancient Chicken-Eagle Conflict (Truth Revealed)"
+    status: "MYSTERY SOLVED IN DESIGN ✅"
+narrative_payoffs_designed:
+  - "Why did Rajawali kidnap Bungsu? ✅ ANSWERED: Arbitrary trait (pink/yellow) chosen to create 'tradition' justifying systematic kidnapping (Q010, Q018)"
+  - "Where is Bungsu? ✅ ANSWERED: Tower Block D, Pulau Langit (Q012 intel) → Found alive in Q016 → Dies in Q017"
+  - "Is Bungsu alive? ✅ ANSWERED: YES until Q017, then becomes jiwa peri spirit (Q018-Q020)"
+  - "What is false about legend? ✅ ANSWERED: ENTIRE legend fabricated by Rajawali (Q010 Scholar theory, Q018 Good Eagle confirmation, Q020 public exposure)"
+  - "Where is stolen pusaka? ✅ ANSWERED: Never stolen (didn't exist as described); Rajawali STOLE different pusaka during coup, invented chicken theft story (Q018)"
+  - "How does Sulung fly? ✅ ANSWERED: Sky Key (Q014) → Golden Wings powered by Bungsu's soul (Q018) → Permanent flight in ACT 3"
+  - "Kepala Desa backstory? ⏳ OPTIONAL: Can be explored in future content/DLC"
 
-pending_payoffs:
-  - "Why did Rajawali kidnap Bungsu specifically? (Answer: Pink feathers + yellow beak matches ancient legend requirement)"
+pending_development_payoffs:
+  - "Scene 01-03 rewrites for animal world consistency (planned)"
+  - "Dialogue scripts expansion from quest outlines (next phase)"
+  - "Side quest narratives (SQ003+ to be designed)"
+  - "Post-game content / epilogue details (if applicables ancient legend requirement)"
   - "Where is Bungsu now? (Answer: Held at Rajawali's Sky Island fortress - endgame location)"
   - "Is Bungsu still alive? What condition? (Answer: TBD - fate is to be eaten, but timing unknown)"
   - "What is false about the Chicken-Eagle legend? (Central mystery - truth to be revealed Act 2B/3)"

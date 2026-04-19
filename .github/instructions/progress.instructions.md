@@ -97,6 +97,25 @@ main_characters:
     species: "Rottweiler Dog"
     brief: "Sword trainer in Kota Anginbiru; former military commander; trains Sulung in combat fundamentals"
     
+  - name: "Taji"
+    role: "Ally 1 / Archer"
+    species: "Ajag (Wild Dog / Dhole)"
+    brief: "Mercenary archer exiled from birth pack; lone hunter seeking redemption for choosing conscience over pack; ranged DPS and tracker; recruited Q006; learns to trust chosen family over blood"
+    appears: "Q006 (ACT 2A)"
+    
+  - name: "Senja"
+    role: "Ally 2 / Shadow Mage"
+    species: "Musang (Palm Civet)"
+    brief: "Apprentice of deceased Great Wizard; shadow/support magic specialist; sheltered prodigy learning harsh realities; struggles with guilt over master's death; utility caster and strategist; recruited Q009"
+    appears: "Q009 (ACT 2A)"
+    
+  - name: "Licik"
+    role: "Ally 3 / Assassin (OPTIONAL)"
+    species: "Rubah (Fox)"
+    brief: "Former bandit and assassin seeking redemption; lost sibling to poverty/illness; stealth expert and infiltrator; moral complexity character (criminal past vs. good heart); recruited Q013 (optional); brings street wisdom and pragmatism"
+    appears: "Q013 (ACT 2B - Optional)"
+    status: "OPTIONAL RECRUIT"
+    
   - name: "Rajawali"
     role: "Main Antagonist"
     species: "Eagle (elang)"

@@ -8,45 +8,60 @@ last_updated: "2026-04-18"
 tags: ["main", "act2a", "ally-recruitment", "stealth-expert", "mole-badger-rat", "redemption-arc"]
 ---
 
-# Q009 — SHADOWS ALIGNED: RECRUITING THE OUTCAST
+# Q009 — TWILIGHT'S SHADOW: RECRUITING SENJA
 
 **Type:** Main Quest (ACT 2A — Second Ally Recruitment)
 **Act:** ACT 2A
-**Giver:** Underground contacts OR prison break scenario
-**Location:** Border Town Prison → Wilderness Hideout
+**Giver:** Taji (notices magical disturbance) OR town notice board
+**Location:** Kota Anginbiru Mage District → Wizard's Tower → Shadow Realm Pocket
 **Estimated Playtime:** Medium (25-30 minutes)
 
 ---
 
 ### 🎯 Quest Hook
-> Word reaches Sulung of master thief imprisoned for stealing from Eagle supply convoys. This criminal — a mole, badger, or rat (species varies) — has intimate knowledge of eagle security systems, underground tunnels, and stealth tactics. Perfect skillset for infiltrating Sky Island... but they're locked up. Sulung must decide: break out a convicted criminal to gain valuable ally? Or find another way?
+> Dark magical energy pulses from abandoned wizard's tower in Kota Anginbiru's mage district. Locals whisper of shadow creatures emerging at night, and authorities have cordoned off the area. Taji's sharp senses detect something's wrong. Investigation reveals young musang mage named Senja trapped inside, desperately trying to contain magical backlash from accident that killed their master. Tower is collapsing into shadow realm. Sulung must enter, help Senja stabilize the magic, and convince traumatized mage to join the quest.
 
-**Emotional Entry Point:** Pragmatism + Moral Flexibility (need skills > legal concerns)
+**Emotional Entry Point:** Urgency + Compassion (someone needs help; also happens to have useful skills)
 
 ---
 
 ### 📖 Quest Premise
-**Surface Goal:** Recruit stealth expert for infiltration skills
-**Real Story:** Redemption arc for criminal with tragic backstory; "one person's thief is another's resistance fighter"; gray morality continued from Q007
-**Thematic Question:** Can criminals be heroes? Do past crimes negate current good deeds?
+**Surface Goal:** Stop magical crisis; recruit mage with shadow magic expertise
+**Real Story:** Help grieving apprentice process master's death and regain confidence; "knowledge without purpose is empty" theme; Senja must choose to re-engage with world
+**Thematic Question:** Can you move forward when haunted by past? Is isolation safety or prison?
 
 ---
 
 ### 🗺️ Quest Structure
 
 #### Phase 1 — INVESTIGATION
-**Objective:** Learn about imprisoned thief; decide if worth recruiting
-**Narrative Beat:** Visit prison, speak with guards/inmates, piece together Ally 2's story
-**Player Discovery:** Ally 2 not petty criminal — targeted eagle supply lines specifically
-**Emotional Target:** Curiosity + Sympathy (maybe they had good reason?)
+**Objective:** Investigate magical disturbance; locate source at wizard's tower
+**Narrative Beat:** Locals afraid to approach; Taji senses danger; Sulung decides to help
+**Player Discovery:** Young mage trapped inside tower, alone and desperate
+**Emotional Target:** Concern + Curiosity (who is this mage and what happened?)
 
-**Prison Inquiry:**
+**Tower Approach:**
 ```
-[Border Town Prison — grim stone building, eagle guards patrol]
+[Wizard's tower — dark energy crackling around spire, shadows writhing]
 
-Guard (Eagle): [suspicious] "Why's a chicken asking about Prisoner 447?"
+Taji: [ears flat, growling] "Something's wrong. Smell's... off. Magic."
 
-Sulung: "I heard they have... particular skills. I might have work."
+Local Resident: "That's old Wulan's tower. The Great Wizard. Died two years ago in accident. Apprentice still lives there, but... tower's been like THIS for weeks. Guards won't go near it."
+
+Sulung: "Apprentice? They're still inside?"
+
+Resident: "Young musang. Senja, I think. Brilliant but... strange. Haven't seen them in town since the master died. Some say they're going mad with grief."
+
+Taji: "Tower's collapsing. Into shadow realm, if I'm reading this right." [looks at Sulung] "We going in?"
+
+Sulung: "Someone's in trouble. Yes."
+
+[Enter tower — interior warping, shadows alive, reality unstable]
+
+Senja (Voice, distant): "S-stay back! I can't control it! If you come closer, the shadows will—"
+
+[Shadow creature manifests, attacks]
+```
 
 Guard: [laughs] "Work? That rat's been stealing from supply convoys for years. 
 Only caught because someone ratted them out. Heh. Ratted. Get it?"

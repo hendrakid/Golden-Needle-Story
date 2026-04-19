@@ -42,9 +42,9 @@ tags: ["main", "act3", "sky-island", "bungsu-found", "hope-before-tragedy"]
 **Emotional Target:** Awe mixed with dread
 
 **Gameplay:**
-- **Flight Approach:** If Ally 3 (Eagle Defector) recruited → they carry Sulung; If magic scroll → limited duration flight; If neither → cutscene solution (allies help from below)
+- **Flight Approach:** If Sky Key from Q014 → sustained flight; If magic scroll from Q011 → limited duration flight; If neither → cutscene solution (allies help from below)
 - **Entry Choice:**
-  - **Stealth Route:** Servants' entrance, avoid guards, slower but safer
+  - **Stealth Route:** Servants' entrance, avoid guards, slower but safer (Licik excels here if recruited)
   - **Combat Route:** Front gate assault, loud but direct
 - **Consequence:** Choice affects Phase 2 timing (stealth = more time with Bungsu; combat = Rajawali arrives faster)
 
@@ -234,7 +234,7 @@ FAILED (Narrative-Driven)
 **References:** 
 - Scene-01 (Bungsu's kidnapping — full circle moment)
 - Q011 (Neutral Council flight aid if obtained)
-- Q013 (Ally 3 Eagle Defector if recruited — helps infiltration)
+- Q013 (Licik/Rubah assassin if recruited — helps stealth infiltration)
 
 ---
 

@@ -44,9 +44,9 @@ VERTICAL SLICE READY: ✅ YES (ACT 1 + ACT 3)
 - 5 boss fights (scaled difficulty)
 
 ✅ **Companion System**
-- Ally 1: Hawk (aerial scout)
-- Ally 2: Stealth Expert (lockpicking)
-- Ally 3: Eagle Defector (OPTIONAL)
+- Taji: Ajag (Wild Dog) archer - aerial scout, ranged DPS
+- Senja: Musang (Palm Civet) shadow mage - support caster, utility
+- Licik: Rubah (Fox) assassin - stealth expert, infiltrator (OPTIONAL)
 - Bungsu: Jiwa Peri (spirit companion)
 
 ✅ **Flight Progression**

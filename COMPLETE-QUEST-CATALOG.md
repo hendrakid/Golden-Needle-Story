@@ -57,10 +57,10 @@ DOCUMENTATION STATUS: PRODUCTION READY
 
 ### **ACT 2A — JOURNEY & DISCOVERY** (5 Quests) ✅
 
-#### Q006: Recruit Ally 1 (Hawk/Falcon)
+#### Q006: Recruit Taji (Ajag Archer)
 - **File:** `q006-recruit-ally1.quest.md` ✅
-- **Type:** Ally recruitment, trust-building
-- **Rewards:** Ally 1 (aerial scout), aerial reconnaissance mechanic
+- **Type:** Ally recruitment, trust-building, pack dynamics
+- **Rewards:** Taji joins party (ranged DPS, aerial scout)
 
 #### Q007: Smuggler Deal
 - **File:** `q007-smuggler-deal.quest.md` ✅
@@ -73,10 +73,10 @@ DOCUMENTATION STATUS: PRODUCTION READY
 - **Boss:** Guardian Golem (optional)
 - **Rewards:** Ancient peace treaty evidence, historical truth
 
-#### Q009: Recruit Ally 2 (Stealth Expert)
+#### Q009: Recruit Senja (Musang Shadow Mage)
 - **File:** `q009-recruit-ally2.quest.md` ✅
-- **Type:** Prison break, redemption arc
-- **Rewards:** Ally 2 (lockpicking, stealth), underground knowledge
+- **Type:** Magical crisis, shadow realm, grief processing
+- **Rewards:** Senja joins party (support caster, utility mage)
 
 #### Q010: Scholar Revelation (MIDPOINT TWIST)
 - **File:** `q010-scholar-revelation.quest.md` ✅
@@ -97,10 +97,10 @@ DOCUMENTATION STATUS: PRODUCTION READY
 - **Type:** Stealth/combat hybrid, intelligence gathering
 - **Rewards:** Sky Island defense plans, Bungsu location confirmed (alive)
 
-#### Q013: Recruit Ally 3 (Eagle Defector) — OPTIONAL
+#### Q013: Recruit Licik (Rubah Assassin) — OPTIONAL
 - **File:** `q013-recruit-ally3-optional.quest.md` ✅
-- **Type:** Moral complexity, species prejudice challenge
-- **Rewards:** Ally 3 (advanced flight, insider intel) — OPTIONAL
+- **Type:** Moral complexity, criminal redemption, survivor's guilt
+- **Rewards:** Licik joins party (stealth DPS, infiltration expert) — OPTIONAL
 
 #### Q014: Forge Sky Key + Eagle Commander Boss
 - **File:** `q014-forge-sky-key.quest.md` ✅
@@ -157,10 +157,10 @@ DOCUMENTATION STATUS: PRODUCTION READY
 - ✅ Boss fights (5 total: Bandit, Golem, Commander, Rajawali x2)
 
 ### Companion System
-- ✅ Ally 1 (Hawk — aerial scout, combat support)
-- ✅ Ally 2 (Stealth Expert — lockpicking, traps)
-- ✅ Ally 3 (Eagle Defector — OPTIONAL, advanced flight)
-- ✅ Bungsu (Jiwa Peri — spirit companion, narrative only)
+- ✅ Taji (Ajag/Wild Dog — ranged DPS, archer, pack dynamics)
+- ✅ Senja (Musang/Palm Civet — support mage, shadow magic, utility)
+- ✅ Licik (Rubah/Fox — stealth DPS, assassin, infiltrator — OPTIONAL)
+- ✅ Bungsu (Jiwa Peri — spirit companion, narrative/emotional anchor)
 
 ### Flight Mechanics
 - ✅ Temporary (Flight Scroll from Q011)

@@ -60,6 +60,50 @@ Failure conditions: Die, abandon teammates, or exceed time limit. Questions?"
 Proctor: "Good. Form your teams. Exam starts in 10 minutes."
 ```
 
+**🔍 [NEW] Eavesdropping Opportunity — Intel Gathering:**
+
+While waiting for exam to begin, Sulung overhears senior hunters talking near equipment lockers:
+
+```
+[Senior Hunter 1 (Leopard) and Senior Hunter 2 (Hawk) discussing past missions]
+
+Leopard: "...heard they're expanding prohibited zones AGAIN. Eastern mountains now off-limits."
+
+Hawk: "Eagle patrols. They don't want anyone near their routes."
+
+Leopard: "Routes to what? What're they hiding up there?"
+
+Hawk: [lowers voice] "You really want to know? Friend of mine— works the black market— 
+says there's smuggler network that moves goods PAST eagle checkpoints. Sky route maps. 
+Prohibited coordinates."
+
+Leopard: "Illegal as hell."
+
+Hawk: "Sure. But if you needed to reach somewhere eagles don't want you going... 
+only option. Guy goes by 'Licik the Fox.' Operates out of port district."
+
+Leopard: "You trust smugglers?"
+
+Hawk: [shrugs] "I trust money. And Licik charges enough to BE trustworthy. Just saying— 
+if someone ever needed to reach, say, Sky Island..."
+
+Leopard: [laughs nervously] "Who'd be crazy enough to try THAT?"
+
+[Sulung, listening from nearby, makes mental note]
+
+Sulung (Internal): "Licik. Port district. Sky route maps. Remember that."
+```
+
+**Intel Gained:**
+- **Smuggler Contact:** Licik the Fox (port district) — has sky route maps
+- **Eastern Mountains:** Prohibited zone (eagles don't want people there) → becomes relevant in Q006-Q008
+- **Confirmation:** Reaching eagle territories requires illegal/alternative methods
+- **Sky Island mentioned:** First time Sulung hears the NAME of the place he's looking for
+
+**Story Impact:** This eavesdropping scene plants the seeds for:
+- Q007 (Smuggler Deal) — Sulung now knows WHO to contact
+- Q006-Q008 (Eastern Mountains exploration) — knows it's a restricted area worth investigating
+
 **Team Formation Choice:**
 - **Solo:** Sulung goes alone (harder but full XP/loot)
 - **Join Team:** NPC candidates invite Sulung (easier, share XP, introduces potential allies/rivals)

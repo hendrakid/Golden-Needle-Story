@@ -153,6 +153,90 @@ Sulung: [relief] "Thank you."
 Council Head: "Be warned. This aid is CONDITIONAL. You represent Council now. 
 Act with honor."
 
+[Session formally adjourns]
+```
+
+---
+
+#### 📍 [NEW] CRITICAL INTEL ACQUISITION — Coordinate Revelation
+
+**After the Official Session (Private Conversation):**
+
+Following the vote, the Council Head (Bear) pulls Sulung aside privately:
+
+```
+[Private council chamber — just Bear and Sulung]
+
+Bear: [serious tone] "The vote passed. You have official aid. But there's something 
+else you need."
+
+Sulung: "More than flight magic?"
+
+Bear: "Coordinates. Exact location of Sky Island." [pulls out sealed document] 
+"This is classified Council intelligence. Gathered over decades through aerial 
+reconnaissance and defector testimonies."
+
+Sulung: [surprised] "You KNEW where it was? All along?"
+
+Bear: [grimly] "Knowing and ACTING are different things. Council has long known of 
+Sky Island's location. But political reality prevented intervention." [opens document] 
+"Now that you have official mandate... I can share this."
+
+[Document shows PRECISE COORDINATES:]
+
+```
+SKY ISLAND (Pulau Langit) — CLASSIFIED LOCATION DATA
+
+Latitude: 47° N relative to Eastern Mountain Range
+Longitude: 23° E from Kota Anginbiru meridian
+Altitude: 8,000 - 10,000 feet above sea level (FLOATING)
+
+Approach Vector: Eastern Peak Updraft (dawn optimal)
+Restricted Airspace: 15-mile radius, Eagle patrol enforced
+Landing Zones: North courtyard (guarded), South tower (high security)
+
+NOTE: Island position DRIFTS slightly with seasonal wind patterns.
+Current season places it directly above Mount Awan Tinggi.
+```
+
+Sulung: [studying map] "Mount Awan Tinggi. That's... three days northeast from here."
+
+Bear: "Correct. The mountain Senja's map indicated. Your ancient map and our modern 
+intel align perfectly. Sky Island floats above that peak, held aloft by ancient magic."
+
+Taji: [examining coordinates] "Dawn updraft. I can scout aerial approach."
+
+Bear: "One warning: coordinates are accurate, but eagles WILL detect approach. Even with 
+our Letter of Passage, they may attack first and verify credentials later. You'll need 
+more than diplomacy."
+
+Sulung: "We're forging the Sky Key. For sustained flight and combat maneuverability."
+
+Bear: [nods approvingly] "Smart. Then you have everything: knowledge, means, and now — 
+precise destination." [hands over document] "This never leaves official records. If 
+asked, you navigated by ancient map alone."
+
+Sulung: "Understood. Thank you, Councilor."
+
+Bear: "Bring proof of Rajawali's crimes when you return. The Council can only act with 
+evidence. Give us that, and we'll end this 'tradition' permanently."
+```
+
+**CRITICAL INTEL GAINED:**
+- ✅ **EXACT COORDINATES** of Pulau Langit (Sky Island)
+- ✅ **Precise Location:** Floating above Mount Awan Tinggi, eastern mountain range
+- ✅ **Altitude Data:** 8,000-10,000 feet (confirms need for flight magic)
+- ✅ **Approach Details:** North courtyard and South tower as potential entry points
+- ✅ **Strategic Info:** 15-mile restricted airspace, eagle patrols active
+- ✅ **Timing:** Dawn approach optimal (aligns with ancient map's instructions)
+
+**THIS IS THE MOMENT:** Sulung now knows EXACTLY where Bungsu is held and HOW to reach her.
+
+---
+
+### 🔴 The Betrayal Scene (Occurs After)
+
+```
 [Later — BETRAYAL REVEALED]
 
 [Snake Councilor sends secret message to Eagles, warning of Sulung's approach]

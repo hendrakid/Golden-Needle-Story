@@ -175,6 +175,85 @@ Sulung: "Rajawali."
 Malik: "If that's his name, then yes. The architect of this entire deception."
 ```
 
+**EVIDENCE #5 — THE SKY KEY (Practical Solution):**
+```
+[After revelation of fabrication, Sulung asks practical question]
+
+Sulung: "This is all... horrifying. But even knowing the truth, I still need to REACH 
+Sky Island to rescue Bungsu. Senja decoded the ancient map — we know the approach route. 
+But the inscription mentioned 'Key of Sky' as final requirement."
+
+Malik: [perks up] "Ah. You found the Sanctuary Map. Excellent." [pulls out another scroll] 
+"The Sky Key. Ancient artifact from when Sky Island was neutral meeting ground."
+
+Senja: [excited] "Master Wulan mentioned it in research notes! But said it was lost."
+
+Malik: "The ORIGINAL was lost, yes. But the DESIGN was preserved." [unrolls blueprint] 
+"The Sky Key isn't a literal key. It's a FLIGHT ENABLER. Magical construct that grants 
+sustained flight to non-flying species."
+
+Taji: "So chickens COULD fly to Sky Island. Before."
+
+Malik: "Exactly. When the island was Sanctuary of Unity, Sky Keys were created for ground 
+species to attend councils. When Rajawali's faction took over, they destroyed all existing 
+keys and suppressed the knowledge of how to make them."
+
+Sulung: "Can we make a new one?"
+
+Malik: "Theoretically, yes. The design requires four components:" [lists on parchment]
+
+```
+SKY KEY COMPONENTS:
+
+1. PHOENIX FEATHER — Essence of rebirth and ascension
+   (Symbolizes rising above one's nature)
+   
+2. ANCIENT CRYSTAL — Magic from pre-conflict era
+   (Pure power, untainted by modern lies)
+   
+3. EAGLE TALON — Ironic but necessary
+   (You must claim piece of your oppressor's power)
+   
+4. MOONLIGHT WATER — Blessed during full moon
+   (Clarity and truth, dispelling shadow)
+   
+5. FORGE LOCATION — Sacred Forge at mountain peak
+   (Where elemental energies converge)
+```
+
+Senja: "Phoenix Feather and Eagle Talon... those are RARE."
+
+Malik: "I can provide Moonlight Water — I blessed a vial last month for research." [hands it over] 
+"Phoenix Feather... you'd need to seek out Phoenix territory OR find alternative source of rebirth magic."
+
+Taji: "I know a collector. Black market. Might have feather. For a price."
+
+Malik: "Eagle Talon you'll have to... appropriate. And Ancient Crystal..." [looks at Sulung] 
+"You found the Sanctuary Map in ruins. Were there crystals there?"
+
+Sulung: [remembering] "The chamber. There were crystalline formations."
+
+Malik: "Then you already have access. Return to the ruins, claim a crystal shard." [rolls up 
+blueprint, hands to Sulung] "Take this. When you have all components, seek the Sacred Forge. 
+Old ritual site, mountain peak northeast of here. The forge will do the rest."
+
+Sulung: [clutching blueprint and vial] "Thank you, Malik."
+
+Malik: "Thank me by exposing the truth. And bringing your sister home."
+```
+
+**Intel Gained — Sky Key Path:**
+- **Artifact Design:** Complete blueprint for forging Sky Key
+- **Component 1 (Acquired):** Moonlight Water (Malik provides)
+- **Component 2 (Known Location):** Ancient Crystal (return to Q008 ruins)
+- **Component 3 (Lead):** Phoenix Feather (Taji's black market contact OR alternative)
+- **Component 4 (Future):** Eagle Talon (must steal from eagles in Q012)
+- **Forge Location:** Sacred Forge, mountain peak (sets up Q014)
+
+**This Feeds Forward To:**
+- Q012 (Eagle Outpost Infiltration) — steal Eagle Talon as secondary objective
+- Q014 (Forge Sky Key) — ritual to create artifact using all components
+
 ---
 
 #### Phase 3 — THE THEORY (Malik's Conclusion)

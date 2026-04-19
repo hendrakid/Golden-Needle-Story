@@ -82,7 +82,7 @@ Ally 1: [lands beside him] "Or the legend lied. Come on. Let's see what's inside
 - **Discovery:** Peace treaty from 400 years ago — treaty ENDING a brief conflict through reconciliation
 - **Implication:** Any ancient war was resolved centuries ago; current "legend" is recent fabrication
 
-**Key Revelation Scene:**
+**Key Revelation Scene + MAP FRAGMENT DISCOVERY:**
 ```
 [Chamber 3, light beams illuminate hidden inscription]
 
@@ -91,20 +91,45 @@ bound no more by blood, but by brotherhood. May our children never know war betw
 
 [Date carved: 412 years ago]
 
-Ally 1: "If this treaty ended war four centuries ago... then what's the 'ancient grudge' 
+Taji: "If this treaty ended war four centuries ago... then what's the 'ancient grudge' 
 Rajawali claims?"
 
 Sulung: [realization dawning] "There isn't one. Or there wasn't. Not until someone decided 
 to pretend there was."
 
-Ally 1: "Someone rewrote history. Made peace look like eternal conflict."
+Taji: "Someone rewrote history. Made peace look like eternal conflict."
 
 Sulung: [anger building] "To justify... everything he's doing now."
 
+[Discovers CARVED MAP on chamber floor, partially obscured by dust]
+
+Sulung: [brushing away centuries of dirt] "Wait. There's more. A MAP."
+
+Taji: [kneeling beside him] "Star chart? No... altitude markers. This is an AERIAL map."
+
+Sulung: [tracing carvings] "Look— mountain peaks marked here. And above them... an island. 
+Floating. With the inscription: 'Sanctuary of Unity — Where earth meets sky.'"
+
+Taji: "Sky Island wasn't always a fortress. It was a MEETING PLACE. Neutral ground."
+
+Sulung: [taking sketch of map] "Coordinates are here. Relative to these peaks. If we can 
+figure out which mountains these are..."
+
+Taji: "I know these peaks." [points to formation] "I've SEEN them. When I saw those floating 
+shadows. This map... it's showing Sky Island's LOCATION."
+
 [Environmental cue: Distant rumble, ruins shake slightly]
 
-Ally 1: "We should document this and leave. Place feels unstable."
+Taji: "We should document this and leave. Place feels unstable."
+
+Sulung: [clutching map sketch] "We have what we need. Proof of the lie... and a path forward."
 ```
+
+**Intel Gained from Ruins:**
+- **Historical Truth:** Peace treaty proves legend is fabricated
+- **CRITICAL: Map Fragment** showing Sky Island's approximate location relative to eastern mountain peaks
+- **Sky Island's Original Purpose:** Sanctuary of Unity (neutral meeting ground), NOT fortress
+- **Coordinates:** Partial— still need scholar to decode ancient altitude/navigational markers (leads to Q010)
 
 ---
 

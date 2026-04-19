@@ -39,10 +39,10 @@ Q020: Final Battle (Multiple Endings)                ✅ CREATED ⚔️
 
 #### **ACT 2A — JOURNEY & DISCOVERY (2/5 Quests)**
 ```
-Q006: Recruit Ally 1 (Hawk/Falcon)     ⏳ Outlined in mission-outline.md
-Q007: Smuggler Deal (Moral Choice)     ⏳ Outlined
-Q008: Ancient Ruins Puzzle             ⏳ Outlined
-Q009: Recruit Ally 2 (Stealth Expert)  ⏳ Outlined
+Q006: Recruit Taji (Ajag Archer)           ⏳ Outlined in mission-outline.md
+Q007: Smuggler Deal (Moral Choice)         ⏳ Outlined
+Q008: Ancient Ruins Puzzle                 ⏳ Outlined
+Q009: Recruit Senja (Musang Shadow Mage)   ⏳ Outlined
 Q010: Scholar Revelation (MIDPOINT)    ✅ CREATED (2026-04-18)
 ```
 **Status:** 20% Files Created | 100% Designed  
@@ -52,10 +52,10 @@ Q010: Scholar Revelation (MIDPOINT)    ✅ CREATED (2026-04-18)
 
 #### **ACT 2B — TRUTH & PREPARATION (1/5 Quests)**
 ```
-Q011: Neutral Council Persuasion       ⏳ Outlined
-Q012: Eagle Outpost Infiltration       ⏳ Outlined
-Q013: Recruit Ally 3 (Eagle Defector)  ⏳ Outlined
-Q014: Forge Sky Key + Boss Fight       ⏳ Outlined
+Q011: Neutral Council Persuasion           ⏳ Outlined
+Q012: Eagle Outpost Infiltration           ⏳ Outlined
+Q013: Recruit Licik (Rubah Assassin)       ✅ CREATED (2026-04-19) — OPTIONAL
+Q014: Forge Sky Key + Boss Fight           ⏳ Outlined
 Q015: Point of No Return (CHOICE)      ✅ CREATED (2026-04-18)
 ```
 **Status:** 20% Files Created | 100% Designed  

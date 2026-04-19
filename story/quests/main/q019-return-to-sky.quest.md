@@ -130,11 +130,11 @@ Bungsu: "I do feel it, Kak. I feel everything you feel. We're one now."
 ```
 [Sulung lands at pre-arranged meeting point]
 
-Ally 1 (Hawk/Falcon — if recruited): "Sulung! You're alive! We thought—"
+Taji (Ajag archer — if recruited): "Sulung! You're alive! We thought—"
 
 Sulung: "I'm alive. Barely. But I'm back."
 
-Ally 2 (Mole/Badger — if recruited): [notices Sulung's new wings] "Those wings... where did you get—"
+Senja (Musang mage — if recruited): [notices Sulung's new wings] "Those wings... where did you get—"
 
 [Sulung glances at Bungsu's spirit floating beside him — Allies DON'T see her]
 
@@ -144,7 +144,7 @@ Allies: [react with sadness, offer condolences]
 
 Sulung: "But she's still with me. In a way. And we're going back. To end this."
 
-Ally 3 (Eagle Defector — if recruited): "Rajawali will be ready for you. He knows you'll return."
+Licik (Rubah assassin — if recruited): "Rajawali will be ready for you. He knows you'll return."
 
 Sulung: "Good. I want him to know I'm coming."
 
@@ -195,7 +195,7 @@ Sulung: "Rajawali knows I'm coming. He'll be ready. Do we sneak in? Fight our wa
 
 2. DIPLOMATIC UPRISING
    - Rally freed prisoners from Q016 (if freed)
-   - Ally 3 (if eagle defector recruited) spreads truth among eagle guards
+   - Licik (if Rubah assassin recruited) spreads truth among guards, uses street connections
    - Create internal rebellion against Rajawali
    - Public confrontation instead of private duel
    - **Outcome:** Witnesses present during Q020 fight, easier to expose truth publicly
@@ -367,7 +367,7 @@ UNLOCKED
 **References:** 
 - Q016 (returning to scene of Bungsu's death — full circle)
 - Q002-Q005 (training arc callback — Sulung has come far)
-- Q013 (Ally 3 eagle defector useful in Diplomatic approach if recruited)
+- Q013 (Licik/Rubah assassin useful in Diplomatic approach if recruited)
 
 ---
 

@@ -73,60 +73,72 @@ Do I kill him? Capture him? Can I even afford to let him live after everything h
 **Player Choice:** Whose advice resonates most (affects but doesn't lock choice)
 **Emotional Target:** Conflicting wisdom — "They're all right in different ways"
 
-**ALLY 1 PERSPECTIVE — Justice Through Law**
+**TAJI PERSPECTIVE — Justice Through Principle**
 ```
-[Hawk/Falcon ally speaks]
+[Taji (Ajag archer) speaks, measured]
 
-Ally 1: "Sulung, listen. I know you're angry. I would be too. But Rajawali needs to face 
+Taji: "Sulung, listen. I know you're angry. I would be too. But Rajawali needs to face 
 JUSTICE, not just your personal vengeance."
 
 Sulung: "What's the difference?"
 
-Ally 1: "Justice is witnessed. Documented. A trial. Evidence presented. The Neutral Council 
+Taji: "Justice is witnessed. Documented. A trial. Evidence presented. The Neutral Council 
 passing judgment. If you kill him yourself, you become no better than—"
 
 Sulung: "Don't. Don't say I'm like him."
 
-Ally 1: "I'm not saying you are. But I'm saying revenge looks a lot like tyranny from the 
-outside. The system exists for a reason. Use it."
+Taji: "I'm not saying you are. But I'm saying revenge looks a lot like tyranny from the 
+outside. I was exiled for choosing conscience over tradition. That choice matters, Sulung."
 
 Sulung: "And if the system fails? If eagles protect their own?"
 
-Ally 1: "Then you'll know you tried the right way first. Conscience matters, Sulung."
+Taji: "Then you'll know you tried the right way first. Pack honor means something. 
+Your actions define who you become."
 ```
 
-**ALLY 2 PERSPECTIVE — Vengeance is Justice**
+**SENJA PERSPECTIVE — Pragmatic Restraint**
 ```
-[Mole/Badger ally speaks, voice bitter]
+[Senja (Musang mage) speaks, thoughtful but pained]
 
-Ally 2: "Don't listen to that idealist garbage. Rajawali has killed HOW many? Decades of 
-murder. You think a 'trial' will bring them back?"
+Senja: "I understand wanting vengeance. When my master died... I wanted to burn the world. 
+But that wouldn't have brought them back."
 
-Sulung: "So I should just... execute him?"
+Sulung: "So what did you do?"
 
-Ally 2: "I'm saying he's earned death a hundred times over. If you have the chance, TAKE IT. 
-Don't give him opportunity to escape. Don't give him a platform to lie more. Just... end it."
+Senja: "I studied. I learned. I tried to make their death MEAN something by becoming better 
+than my grief. Rajawali deserves punishment, absolutely. But killing him won't undo what he did."
 
-Sulung: "That's not justice. That's revenge."
+Sulung: "So mercy? Just... let him live?"
 
-Ally 2: "Sometimes revenge IS justice. Ask the families of his victims if they want him alive. 
-Ask YOUR sister... when you find her."
+Senja: "Not mercy. CONTROL. Don't let your rage make the decision. Use your mind. 
+Imprisonment, trial, exposure—those hurt tyrants more than quick death. They want to be martyrs. 
+Don't give them that."
 
-[Painful silence — Bungsu's fate still unknown to Sulung at this point]
+Sulung: "What if I NEED him dead? For Bungsu?"
 
-Ally 2: "I'm not saying be cruel. I'm saying be final. One clean strike. And it's over."
+Senja: "Then that's your choice. But make it consciously. Not in the heat of rage. 
+Master taught me: magic serves people, not ego. Same with justice."
 ```
 
-**ALLY 3 PERSPECTIVE — Mercy's Possibility (If Eagle Defector Recruited)**
+**LICIK PERSPECTIVE — Survivor's Pragmatism (If Rubah Assassin Recruited)**
 ```
-[Eagle defector ally speaks, conflicted]
+[Licik (Rubah assassin) speaks, conflicted]
 
-Ally 3: "I... don't know if I have right to speak. Rajawali is of my kind."
+Licik: "I... don't know if I have right to speak. I've killed for worse reasons than you have."
 
 Sulung: "That's exactly why I want to hear your view."
 
-Ally 3: "My people are not all monsters. Rajawali corrupted us. Made us believe lies. If you 
-kill him, you confirm what he taught us — that violence is only answer."
+Licik: "Truth? He's a monster. I'd gut him without hesitation if you asked. But..."
+
+Sulung: "But?"
+
+Licik: "I spent my whole life doing 'necessary' violence. Told myself it was survival, 
+justice, whatever made me sleep. And you know what? I still see their faces. Every. Single. One."
+
+[Pause — rare vulnerability]
+
+Licik: "You kill Rajawali, Feathers? You'll carry that forever. Even if he deserves it. 
+Even if it's right. So make sure you can live with it. Because I barely can."
 
 Sulung: "He murdered children."
 

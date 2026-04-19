@@ -4,159 +4,327 @@ type: "quest"
 act: "ACT 2A"
 status: "draft"
 created: "2026-04-18"
-last_updated: "2026-04-18"
-tags: ["main", "act2a", "ally-recruitment", "hawk-falcon", "companion", "trust-building"]
+last_updated: "2026-04-19"
+tags: ["main", "act2a", "eastern-mountains", "bandit-camp", "rescue", "combat"]
 ---
 
-# Q006 — THE LONE HUNTER: RECRUITING TAJI
+# Q006 — MOUNTAIN INVESTIGATION: EASTERN PASS BANDITS
 
-**Type:** Main Quest (ACT 2A — First Ally Recruitment)
+**Type:** Main Quest (ACT 2A — Investigation & Combat)
 **Act:** ACT 2A
-**Giver:** Rumor/Notice Board in Hunter Association
-**Location:** Mountain Pass → Kota Anginbiru Outskirts (Mercenary Camp)
-**Estimated Playtime:** Medium (20-30 minutes)
+**Giver:** Hunter Association Notice Board
+**Location:** Eastern Mountain Pass (Prohibited Zone Border)
+**Estimated Playtime:** Medium (25-35 minutes)
 
 ---
 
 ### 🎯 Quest Hook
-> After earning Hunter License, Sulung hears rumors of legendary mercenary archer in Kota Anginbiru—a wild dog (ajag) named Taji who works alone. Known as "The Lone Hunter," Taji has reputation: best shot in three provinces, never misses a contract, but refuses partnerships. For a chicken planning to assault Sky Island, having a master archer would be invaluable. But can Sulung convince a lone wolf to join a pack?
+> Following the intel from Q005 about "prohibited zones" in the eastern mountains, Sulung takes a guild bounty to investigate increased bandit activity near the restricted area. The Hunter Association suspects bandits are using the "prohibited zone" designation as cover for their operations, knowing authorities won't patrol there. Sulung's mission: infiltrate the eastern pass, eliminate the bandit threat, and gather any information about why this area is truly restricted.
 
-**Emotional Entry Point:** Hope (someone who can help) + Caution (can they be trusted?)
+**Emotional Entry Point:** Determination (investigate eastern mountains lead) + Tactical focus (dangerous solo mission into restricted territory)
 
 ---
 
 ### 📖 Quest Premise
-**Surface Goal:** Hire hawk mercenary as guide/companion for journey
-**Real Story:** First trust-building with non-chicken ally; establishing party dynamics; learning not all flying species serve eagles
-**Thematic Question:** Can predator and prey species work together despite ancient prejudices?
+**Surface Goal:** Clear bandit camp in eastern mountain pass; investigate prohibited zone
+**Real Story:** Unexpected rescue creates natural alliance; discovery that someone else has seen "floating shadows"; combat bonding leads to partnership
+**Thematic Question:** Can strangers become allies when survival depends on trust?
 
 ---
 
 ### 🗺️ Quest Structure
 
-#### Phase 1 — FINDING THE HAWK
-**Objective:** Travel to mercenary camp outside Kota Anginbiru, locate Taji
-**Narrative Beat:** Sulung finds Taji finishing caravan guard contract; observes their archery mastery
-**Player Discovery:** Taji is blunt, professional, emotionally distant; views Sulung as "just another client"
-**Emotional Target:** Curiosity + Initial distrust (they're a bird of prey, after all)
+#### Phase 1 — ARRIVAL & DISCOVERY
+**Objective:** Reach eastern mountain pass; locate bandit camp
+**Narrative Beat:** Sulung arrives at mission site; hears sounds of desperate combat ahead
+**Player Discovery:** Someone is already here, fighting bandits alone — and LOSING
+**Emotional Target:** Urgency (someone needs help) + Tactical decision (intervene or observe?)
 
-**First Meeting:**
+**Arrival Scene:**
 ```
-[Mercenary camp outskirts — Taji collecting payment from merchant]
+[Eastern mountain pass — narrow trail between steep cliffs]
 
-Taji (Ajag): "Two hundred. As agreed."
+Sulung: [examining fresh tracks] "Heavy bandit activity. Camp should be just ahead..."
 
-Merchant: "Worth every coin. Those bandits never saw you coming. Arrows from nowhere!"
+[Sounds of combat echo from around the bend — clash of steel, shouting, snarling]
 
-Taji: [counting coins, doesn't look up] "They saw. Too late."
+Bandit Voice: "Surround the dog! Cut off the escape route!"
 
-[Merchant leaves. Taji notices Sulung approaching]
+Unknown Voice (Taji): "Back off! I still have arrows!"
 
-Taji: [sharp eyes assess Sulung] "Need something, chicken?"
+[Arrow whistles overhead, strikes rock near Sulung]
 
-Sulung: "I'm looking for an archer. Heard you're the best."
+Sulung: [cautiously peeks around corner, sees:]
 
-Taji: [raises eyebrow, terse] "Heard right. Job?"
+**SCENE:**
+- Taji (Ajag archer) with back against cliff wall
+- SURROUNDED by 8+ bandits closing in
+- Several dead bandits on ground (Taji fought hard but overwhelmed by numbers)
+- Taji wounded (blood on shoulder), bow drawn but clearly exhausted
+- Bandit Leader approaching with spear and shield
 
-Sulung: "I need to reach Sky Island. Rescue my sister from eagles."
+Bandit Leader: "Drop the bow, dog. You've killed enough of my men. This ends NOW."
 
-Taji: [pauses, looks Sulung up and down] "Sky Island. Eagles. You're serious."
+Taji: [panting heavily, defiant] "Then come and END it."
 
-Sulung: "Completely."
+[Bandits tighten circle, preparing final assault]
 
-Taji: [slight interest despite herself] "Suicide mission. Interesting. What's the pay?"
+[PLAYER CHOICE — TIME SENSITIVE:]  
+→ **CHARGE IN** (immediate rescue, surprise attack)  
+→ **WAIT FOR OPENING** (observe fight, strike when bandits distracted)  
+→ **BYPASS FIGHT** (ignore, continue to main camp — Taji will die)
+```
+
+**IF CHARGE IN (Recommended Path):**
+```
+[Sulung bursts from cover, attacks nearest bandit]
+
+Sulung: [slashing at bandit's back] "Eight on one? That's not a fight—that's an execution!"
+
+Taji: [whips around, shocked] "What the—who are YOU?!"
+
+Sulung: [fighting] "Someone who doesn't like unfair odds!"
+
+[Bandit tries to flank Sulung; Taji immediately shoots arrow through bandit's leg]
+
+Taji: [reloading] "Behind you!"
+
+Sulung: [blocks attack] "Thanks!"
+
+[COMBAT BEGINS — Sulung + Taji vs 8 Bandits]
 ```
 
 ---
 
-#### Phase 2 — THE TEST JOB
-**Trigger:** Taji offers trial contract: prove competence on dangerous escort job
-**New Objective:** Prove competence and trustworthiness through action
-**Player Choice:** Accept immediately OR negotiate terms
-**Emotional Target:** Proving yourself to someone skeptical
+#### Phase 2 — THE RESCUE FIGHT
+**Trigger:** Player chooses to help Taji (recommended path)
+**New Objective:** Defeat bandits; keep Taji alive
+**Combat Mechanics:** Coordinated attacks — Taji provides ranged support while Sulung engages melee
+**Emotional Target:** Trust building through combat (actions speak louder than words)
 
-**Trial Mission — Bandit Ambush:**
-- Escort Taji delivering package through mountain pass  
-- Bandits attack (ground forces, some with bows)
-- **Combat Test:** Sulung must hold frontline while Taji provides ranged support
-- **Trust Moment:** Taji's bow string snaps mid-fight; Sulung must cover while they restring
+**Combat Flow:**
+- **Wave 1:** 4 melee bandits rush Sulung (Taji covers with arrows)
+- **Wave 2:** Bandit Leader + 3 archers enter fight (harder; Taji wounded, accuracy reduced)
+- **Critical Moment:** Taji's bowstring SNAPS mid-combat
 
-**Critical Scene:**
+**Critical Scene — Bowstring Break:**
 ```
 [Mid-combat, Taji's bowstring snaps with sharp TWANG]
 
-Taji: [cursing under breath] "String's cut—"
+Taji: [cursing] "String's CUT— damn cheap material!"
 
-Bandit: [advancing on Taji with axe] "Archer's useless without a bow!"
+Bandit: [grinning, advancing on Taji with axe] "Archer's USELESS without a bow!"
 
-[PLAYER CHOICE:]
-→ PROTECT TAJI (intercept bandit, give time to restring)
-→ PRIORITIZE MISSION (grab package, leave Taji to handle it)
+[PLAYER CHOICE:]  
+→ **PROTECT TAJI** (intercept bandit, give time to restring)  
+→ **KEEP FIGHTING** (trust Taji to handle it, focus on other threats)
 
 IF PROTECT:
-[Sulung intercepts bandit before they reach Taji]
+[Sulung immediately disengages from current fight, intercepts bandit charging Taji]
 
-Sulung: "They're not alone."
+Sulung: [blocking axe strike] "Get that bow FIXED!"
 
-Taji: [quickly restringing bow, surprised] "You're... covering me?"
+Taji: [fumbling with new string, shocked by help] "You're... covering me? Why?"
 
-Sulung: [blocking attacks] "Isn't that what partners do?"
+Sulung: [parrying attacks] "Less talking, more restringing!"
 
-[Taji finishes restring, immediately shoots bandit threatening Sulung]
+[Taji works frantically; bandit presses attack on Sulung]
 
-Taji: [lowering bow] "...Partners. Right."
+[Another bandit tries to flank Sulung from behind]
 
-[After combat victory]
+Taji: [finishes restring, immediately draws and shoots] "BEHIND YOU!"
 
-Taji: [examining broken string] "Most clients would've run when archer goes down."
+[Arrow strikes flanking bandit in chest; they drop]
 
-Sulung: "I'm not most clients."
+Sulung: [quick glance back] "Nice shot!"
 
-Taji: [slight nod, first hint of respect] "No. Guess you're not."
+Taji: [already aiming at next target] "We're even now!"
+
+[Together, Sulung and Taji finish remaining bandits]
+
+**COMBAT VICTORY**
+
+[Aftermath — both catching breath, surrounded by defeated bandits]
+
+Taji: [leaning against cliff wall, holding wounded shoulder] "You didn't have to help. 
+This wasn't YOUR fight."
+
+Sulung: [sheathing weapon] "You were outnumbered eight to one. Anyone would've helped."
+
+Taji: [bitter laugh] "You'd be SURPRISED how many wouldn't. Especially not a chicken 
+helping a wild dog." [extends bloodied hand] "Name's Taji. Thanks for not being like 
+most people."
+
+Sulung: [shakes hand] "Sulung. And you're welcome."
+
+Taji: [examining broken string] "Most would've run when the archer went down. You stayed. 
+Covered me." [looks at Sulung directly] "I owe you my life."
+
+Sulung: "You returned the favor. That shot saved me."
+
+Taji: [slight smirk] "Then we're BOTH alive because we worked together. Not bad... for strangers."
 ```
 
 ---
 
-#### Phase 3 — THE CONVERSATION
-**Final Objective:** After trial job, Taji and Sulung talk; Taji's backstory revealed
-**Narrative Beat:** Taji opens up about exile from birth pack; why became lone mercenary
-**Emotional Target:** Connection forming; mutual understanding of loss and isolation
+#### Phase 3 — MISSION COMPLETION (TOGETHER)
+**Trigger:** Rescue complete; brief rest
+**New Objective:** Clear main bandit camp (ORIGINAL MISSION)
+**Narrative Beat:** Taji insists on helping complete the mission ("debt to repay")
+**Emotional Target:** Partnership forming through shared goal
 
-**Backstory Reveal:**
+**Working Together:**
 ```
-[Campfire after successful delivery, Taji cleaning bow]
+[After brief rest, Taji treats shoulder wound]
 
-Sulung: "Can I ask... why work alone? Most hunters I know run in packs."
+Sulung: "You should rest. That wound needs—"
 
-Taji: [long pause, doesn't look up] "Had a pack once. Birth pack. Wild dog clan. Traditional."
+Taji: "I'm FINE." [ties bandage] "Shoulder injury. I can still shoot. What were you 
+doing here anyway?"
 
-Sulung: [careful] "What happened?"
+Sulung: "Guild bounty. Clear the bandit camp in this pass."
 
-Taji: [jaw tightens] "They hunted for sport. Not survival. Found refugee family—chickens, fleeing eagle raids. Pack alpha called it 'traditional cull.' I... refused."
+Taji: [stands, picks up bow] "Then I'm coming with you."
+
+Sulung: "You're injured. You don't have to—"
+
+Taji: [cuts him off] "I don't leave DEBTS unpaid. You saved my life. The LEAST I can do 
+is help you finish your mission." [checks quiver] "Besides, I was tracking these same 
+bandits. Let's clear them out. Together."
+
+Sulung: [nods] "Alright. Let's finish this."
+```
+
+**Joint Mission:**
+- Travel to main bandit camp (10-15 bandits)
+- Taji scouts from high ground, identifies enemy positions
+- Player choice: **Stealth approach** OR **Frontal assault**
+- Coordinated combat (Taji's callouts give Sulung tactical advantage)
+- **Mini-Boss:** Bandit Chief (tougher enemy, requires teamwork)
+
+**Mission Complete:**
+```
+[After Bandit Chief defeated, camp cleared]
+
+**GUILD NOTICE COMPLETED:** "Eastern Pass Bandits — ELIMINATED"
+
+Taji: [surveying cleared camp] "Not bad. For a chicken." [pause] "No offense."
+
+Sulung: [slight smile] "None taken. You're not bad yourself. For a wild dog."
+
+Taji: [genuine smirk] "Touché."
+```
+
+---
+
+#### Phase 4 — POST-MISSION AFTERMATH (TAJI'S DECISION)
+**Trigger:** Mission complete; safe area (campfire)
+**Objective:** **NONE** — This is aftermath, NOT a quest objective
+**Narrative Beat:** Taji's backstory revealed; Taji DECIDES to join Sulung's journey
+**Emotional Target:** Genuine connection; recruitment as NATURAL CONSEQUENCE
+
+> **⚠️ CRITICAL DESIGN NOTE:**  
+> Taji joining the party is **NOT a quest objective**. It is the **NATURAL RESULT** of Sulung's actions during the rescue. This phase is **REWARD/ACHIEVEMENT**, not a checkbox to complete.
+
+**Campfire Scene — Backstory & Intel:**
+```
+[Evening — campfire at safe clearing, mission complete]
+
+[Taji cleaning bow, Sulung preparing meal]
+
+Sulung: "Can I ask... you've traveled a lot, right? Eastern mountains, prohibited zones?"
+
+Taji: [sharpening arrow] "Nomadic life before settling as merc. Covered a lot of ground. Why?"
+
+Sulung: [hesitant] "Ever see... anything unusual? In the sky? Eagles, maybe?"
+
+Taji: [pauses, looks up] "Floating shadows at dawn. Yeah. Saw them a few times when I passed 
+through these mountains years ago."
+
+Sulung: [leaning forward] "Shadows?"
+
+Taji: "Massive shapes. High altitude. Only visible when sun hits them at specific angle during 
+sunrise. Looked like... islands. Or structures. Thought I was hallucinating from altitude sickness 
+at first."
+
+Sulung: [excited] "Where? Exactly where did you see them?"
+
+Taji: [suspicious now] "Why so interested?"
+
+Sulung: [deciding to trust] "My sister. Bungsu. She was taken by an eagle. Lord Rajawali. 
+I think... I think she's up there. Wherever those shadows were."
+
+Taji: [expression softens slightly] "...Sky Island. That's what old nomads called it. 'The island 
+that sleeps above the storm.' Thought it was legend."
+
+Sulung: "It's real. And I need to reach it."
+
+Taji: [long pause, then sighs] "Had a pack once. Birth pack. Wild dog clan. Traditional." 
+[jaw tightens] "They hunted for sport. Found refugee family—chickens, fleeing eagle raids. 
+Pack alpha called it 'traditional cull.' I... refused."
 
 Sulung: [quiet] "You protected them?"
 
-Taji: "Tried. Pack exiled me for it. Cut my ear. Said I betrayed pack unity." [touches notched ear] "I was sixteen."
+Taji: "Tried. Pack exiled me for it. Cut my ear. Said I betrayed pack unity." [touches notched ear] 
+"I was sixteen. Been twelve years alone."
 
 Sulung: "I'm sorry."
 
-Taji: [bitter] "Don't be. Pack that hunts for cruelty isn't pack worth keeping. But... it's been twelve years alone. Safer that way."
+Taji: [stands, looks east toward mountain peaks] "Those shadows I saw... they were over 
+the eastern peaks. Past the ancient ruins." [turns to Sulung] "If your Sky Island is real, 
+START there. That's where you'll find answers."
 
-Sulung: [hesitant] "My sister was taken. By an eagle. To Sky Island. That's why I need help."
+Sulung: [hopeful] "Will you... help me reach them?"
 
-Taji: [finally looks at Sulung] "...You're going against eagles. For family."
+Taji: [long pause, internal struggle visible]
 
-Sulung: "I know I have no right to ask—"
+Sulung: "I understand if you don't want to. This isn't your fight—"
 
-Taji: [stands, extends hand] "I'm in."
+Taji: [cuts him off] "You saved my life today. When you could've walked past. Could've 
+let me die." [touches bandaged shoulder] "You fought beside me. Covered me when I was 
+vulnerable. No hesitation."
 
-Sulung: [surprised] "Just like that?"
+Sulung: "Anyone would've—"
 
-Taji: "You defended me when my bowstring broke. You're fighting for someone you love. That's... more than pack ever gave me. So yeah. I'm in. Not as mercenary. As... partner."
+Taji: "No. They WOULDN'T. I've been alone for twelve years. I KNOW what 'anyone' does. 
+They look away. They prioritize their own survival." [looks Sulung in eye] "You're not 
+'anyone.' You're... different."
 
-Sulung: [shakes hand] "Thank you."
+Sulung: [quiet] "So are you. You could've left me to the bandits after your string broke. 
+But you didn't."
 
-Taji: [awkward, looking away] "Don't thank me yet. Sky Island's suicide. But... maybe it's time I remembered what fighting FOR someone feels like. Instead of just surviving."
+Taji: [slight smile] "Guess we both made the same choice. To trust. To help." [extends hand] 
+"I'm in. Not as a hired merc. Not as a temporary ally. As a PARTNER. We get your sister back. 
+Together."
+
+Sulung: [clasps hand] "You're sure?"
+
+Taji: "You're fighting for someone you love. You're willing to face eagles, Sky Island, 
+impossible odds... for FAMILY." [voice softer] "That's more than my pack ever gave me. 
+Maybe it's time I stopped surviving alone and started fighting FOR someone again."
+
+Sulung: "Thank you, Taji."
+
+Taji: [awkward, looking away] "Don't thank me yet. Sky Island's a suicide mission. But..." 
+[looks back] "...at least we'll face it together."
+
+**[ACHIEVEMENT UNLOCKED: TAJI JOINS THE PARTY]**
+```
+
+**Intel Gained from Taji (During Conversation):**
+- ✅ **Visual Confirmation:** "Floating shadows at dawn" — Sky Island EXISTS and is visible
+- ✅ **Approximate Location:** Eastern peaks, beyond ancient ruins (feeds into Q008)
+- ✅ **Nomadic Knowledge:** Taji's past travels provide restricted zone navigation expertise
+- ✅ **Personal Stake:** Taji's trauma (eagle raids, pack exile) makes mission personal
+
+**Why Taji Joins (Narrative Justification):**
+1. **Life Debt:** Sulung saved him when surrounded (concrete action)
+2. **Mutual Respect:** Both chose to help stranger in combat (shared values)
+3. **Personal Trauma:** Eagles killed refugees Taji tried to protect (revenge motive)
+4. **Loneliness:** 12 years alone; craves purpose beyond survival (emotional need)
+5. **Admiration:** Sulung's determination to save family resonates (inspiration)
+
+**Result:** Recruitment feels EARNED, not transactional.
 ```
 
 ---
@@ -164,27 +332,35 @@ Taji: [awkward, looking away] "Don't thank me yet. Sky Island's suicide. But... 
 ### 🧩 Quest Objectives
 
 ```
-PRIMARY
-☑ Locate Taji in Kota Anginbiru outskirts
-☑ Negotiate escort contract
-☑ Complete trial delivery job
-☑ Survive bandit ambush
-☑ Recruit Taji as permanent companion
+PRIMARY OBJECTIVES (Mission Focus)
+☑ Reach eastern mountain pass
+☑ Investigate bandit activity near prohibited zone
+☑ Clear main bandit camp
+☑ Defeat Bandit Chief
+☑ Complete guild bounty
 
-COMBAT OBJECTIVES
+RESCUE OBJECTIVES (Triggered by Discovery)
+☑ Save surrounded hunter (Taji)
+☑ Defeat 8+ bandits in rescue fight
 ☑ Protect Taji when bowstring breaks
-☑ Defeat 5+ bandits (coordinate with Taji's ranged support)
-☑ Complete delivery without losing package
+☑ Survive coordinated bandit assault
 
-RELATIONSHIP BUILDING
-☑ Hear Taji's exile backstory
-☑ Share your mission with Taji
-☑ Establish partnership (not just employment)
+COMBAT COORDINATION
+☑ Fight alongside Taji (learn coordinated tactics)
+☑ Use Taji's callouts for tactical advantage
+☑ Complete mission together (main camp clear)
 
-UNLOCKED
-☑ Taji joins party permanently
-☑ Ranged combat support (Taji's archery in battles)
-☑ Tracking ability (Taji can scout ahead, detect ambushes)
+DISCOVERY & INTEL
+☑ Learn about "floating shadows" (Sky Island intel)
+☑ Identify eastern peaks as investigation target
+☑ Hear about ancient ruins (Q008 foreshadowing)
+
+---
+
+POST-QUEST CONSEQUENCES (Not Objectives)
+✨ **ACHIEVEMENT:** Taji decides to join party (natural result of rescue)
+✨ **INTEL ACQUIRED:** Approximate location of Sky Island
+✨ **PARTY MECHANIC UNLOCKED:** Ranged support, scouting, tracking
 ```
 
 ---
@@ -204,18 +380,45 @@ UNLOCKED
 ---
 
 ### 🎁 Rewards
-- Exp: 1200
-- Gold: 300 (payment from delivery job)
-- **Ally Recruited:** Taji (Ajag/Wild Dog Archer) — ranged DPS, tracking, scouting
-- **New Mechanic:** Coordinated attacks (Taji calls out targets; bonus damage on flanked enemies)
+
+**Quest Completion Rewards:**
+- Exp: 1500
+- Gold: 400 (guild bounty payment for clearing bandits)
+- **Item:** Bandit Chief's Reinforced Bow (equipment upgrade)
+- **Item:** Eastern Mountain Map Fragment (lore item)
+
+**Post-Quest Consequences (Earned Through Actions):**
+- ✨ **Taji joins party** — IF player rescued him during Phase 1-2
+  - Ranged DPS support (archer attacks in combat)
+  - Scouting ability (detects ambushes, reveals enemy positions)
+  - Tracking expertise (can follow trails, navigate mountains)
+  - **New Mechanic:** Coordinated Attacks (Taji callouts = bonus damage on flanked enemies)
+
+- ✨ **Intel gained** — "Floating shadows" location (eastern peaks, past ruins)
+- ✨ **Relationship established** — Taji loyalty unlocked (affects future dialogue/choices)
+
+> **Note:** Taji joining is a **consequence of player choice** (rescuing him), NOT a guaranteed quest reward. Players who bypass the rescue won't recruit Taji.
 
 ---
 
 ### 🔗 Quest Connections
-**Prerequisites:** Q005 (Hunter License obtained)  
-**Unlocks:** Q007 (journey continues with ally), Ally 1 dialogue/interactions  
-**References:** Eagle Court (world-building), family conflict theme
+**Prerequisites:** Q005 (Hunter License obtained; eastern mountains intel)  
+**Unlocks:**  
+- Q007 (Smuggler Deal — continues eastern investigation)  
+- Q008 (Ancient Ruins — follows "past the ruins" intel from Taji)  
+- Taji companion interactions (if recruited)  
+
+**References:**  
+- Q005 intel about prohibited zones (why Sulung is investigating east)
+- Taji's "floating shadows" intel feeds into Q008 ruins discovery
+- Eagle raids backstory connects to larger conflict theme
+
+**Continuity Flags:**
+- Taji recruitment is OPTIONAL (based on player choice to rescue)
+- If Taji NOT recruited: alternative path in Q007-Q008 (solo or hire different guide)
+- Eastern mountains become recurring location (Q006→Q008→Q014)
 
 ---
 
-**Status:** ACT 2A Quest — First Ally Recruitment
+**Status:** ACT 2A Quest — Investigation Mission with Potential Ally Recruitment  
+**Design Philosophy:** Mission first, recruitment as consequence

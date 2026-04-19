@@ -19,9 +19,9 @@ tags: ["main", "act2a", "ally-recruitment", "stealth-expert", "mole-badger-rat",
 ---
 
 ### 🎯 Quest Hook
-> Dark magical energy pulses from abandoned wizard's tower in Kota Anginbiru's mage district. Locals whisper of shadow creatures emerging at night, and authorities have cordoned off the area. Taji's sharp senses detect something's wrong. Investigation reveals young musang mage named Senja trapped inside, desperately trying to contain magical backlash from accident that killed their master. Tower is collapsing into shadow realm. Sulung must enter, help Senja stabilize the magic, and convince traumatized mage to join the quest.
+> Dark magical energy pulses from abandoned wizard's tower in Kota Anginbiru's mage district. Locals whisper of shadow creatures emerging at night. Taji's sharp senses detect something's wrong. Investigation reveals young musang mage named Senja trapped inside, desperately trying to contain magical backlash. But Senja wasn't just ANY apprentice— they specialized in ANCIENT LANGUAGES and archaeological magic. The very skills needed to decode the map fragment from Q008. Pure coincidence brings Sulung to rescue the exact person who can help translate the ruins' secrets.
 
-**Emotional Entry Point:** Urgency + Compassion (someone needs help; also happens to have useful skills)
+**Emotional Entry Point:** Urgency + Compassion (someone needs help) + Hope (they might have the skills we need)
 
 ---
 
@@ -63,87 +63,77 @@ Senja (Voice, distant): "S-stay back! I can't control it! If you come closer, th
 [Shadow creature manifests, attacks]
 ```
 
-Guard: [laughs] "Work? That rat's been stealing from supply convoys for years. 
-Only caught because someone ratted them out. Heh. Ratted. Get it?"
+**DECODER SCENE - SENJA'S EXPERTISE REVEALED:**
+```
+[After magical crisis resolved, Senja recovering in tower library]
 
-Sulung: "What were they stealing?"
+Senja (Musang Mage): [examining books] "Master Wulan collected these over sixty years. 
+Ancient texts. Dead languages. Pre-conflict histories..."
 
-Guard: "Medical supplies mostly. Food shipments. Claimed it was 'for the poor.' 
-More like sold it for profit. Thief's a thief."
+Sulung: [remembering map fragment] "Dead languages? Can you... read ancient script?"
 
-[Later — speaking through cell bars to Ally 2]
+Senja: [modest but proud] "It was my specialization. Master said I had gift for linguistic 
+magic. Why?"
 
-Ally 2 (Mole/Badger/Rat): [curled in corner, eyes sharp despite fatigue] "Come to gawk? 
-Or you got business?"
+Sulung: [pulls out sketch from Q008] "We found this in ancient ruins. It's a map, we think. 
+But the altitude markers and coordinates use symbols we can't read."
 
-Sulung: "I heard you know how to get places unseen."
+Senja: [takes sketch, eyes widening] "This is... Old Sky Script. Pre-Eagle Court dialect. 
+Rare. Very rare." [traces symbols] "Where did you find this?"
 
-Ally 2: [interest piqued] "Maybe. Depends where you're trying to go."
+Taji: "Temple ruins. Eastern mountains."
 
-Sulung: [quietly] "Sky Island."
+Senja: [excited despite exhaustion] "I've been researching those ruins for my thesis! Master 
+and I were planning expedition before... before the accident." [focuses on map] "Give me an hour. 
+I can decode this."
 
-Ally 2: [sits up straight] "The Eagle fortress? You're insane. Or desperate. Which is it?"
+[ONE HOUR LATER]
 
-Sulung: "Both. My sister's up there. I'm getting her back."
+Senja: [surrounded by reference books, translation complete] "Got it. These aren't just 
+coordinates. They're NAVIGATIONAL INSTRUCTIONS."
 
-Ally 2: [studying Sulung] "Hmm. Bold. Stupid. But bold. What's in it for me if I help?"
+Sulung: [leaning in] "Instructions to what?"
 
-Sulung: "Freedom. And chance to hit eagles where it hurts."
+Senja: "To reach 'Sanctuary of Unity'— Sky Island's ancient name. The map shows APPROACH 
+VECTORS. Specific air currents that create updrafts strong enough to carry... well, 
+anything, to high altitude."
 
-Ally 2: [grins] "Now you're speaking my language."
+Taji: "Natural flight paths."
+
+Senja: "Exactly. Eagles use them, but they're naturally occurring. The map indicates the 
+strongest updraft point is here—" [points to mountain peak] "—during dawn when wind patterns 
+shift."
+
+Sulung: "So if we reach that peak at dawn..."
+
+Senja: "You'd have a NATURAL way to ascend toward Sky Island. But..." [hesitates] "The map 
+also notes that reaching the island itself requires 'wings of purpose' or 'key of sky.' 
+Some kind of artifact."
+
+Sulung: [remembering scholar's words] "The Sky Key. Scholar Malik mentioned it."
+
+Senja: [looks up] "You've been to Scholar Malik? He's... he's a legend in academic circles. 
+I've wanted to meet him for years."
+
+Sulung: "We're going back to consult him. About forging the Sky Key." [pauses] "You could 
+come with us. Your translation skills... we need them."
+
+Senja: [conflicted] "I... after Master died, I thought I'd never leave this tower again."
+
+Taji: "Knowledge without purpose is just weight. Your master would want you to USE what you learned."
+
+Senja: [long pause, then nods] "You're right. And... this research, this map— it's exactly 
+what Master and I were searching for. The truth about pre-conflict era." [stands] "I'll join you. 
+For the truth. And for Master's legacy."
+
+[ALLIANCE FORMED - SENJA JOINS PARTY]
 ```
 
----
-
-#### Phase 2 — THE BREAKOUT
-**Trigger:** Sulung decides to break Ally 2 out of prison
-**New Objective:** Execute prison break without killing guards (stealth + non-lethal)
-**Player Choice:** Full stealth OR Distraction + Chaos OR Bribe/Negotiate release
-**Emotional Target:** Thrill (heist energy) + Tension (high stakes)
-
-**Breakout Options:**
-
-**OPTION A — PURE STEALTH:**
-- Sneak through prison using guard patrol patterns
-- Ally 1 provides aerial distraction (if present)
-- Pick locks, avoid detection, extract Ally 2 silently
-- **Hardest but cleanest** (no one hurt, no alarm raised)
-
-**OPTION B — DISTRACTION CHAOS:**
-- Create incident elsewhere in prison (fire, riot, etc.)
-- Guards respond, Sulung reaches Ally 2's cell during confusion
-- Ally 2 picks own lock from inside (demonstrates skill)
-- **Medium difficulty, noisy** (alarm raised but escape successful)
-
-**OPTION C — LEGAL MANIPULATION:**
-- Find evidence Ally 2's arrest was unjust (falsified charges, corrupt guard)
-- Present to warden OR bribe officials
-- Legal release (slower but no crime committed)
-- **Easiest morally, hardest bureaucratically**
-
-**Breakout Scene (Option B Example):**
-```
-[Sulung creates distraction — releases other prisoners in different wing]
-
-[Chaos erupts — guards rush to contain riot]
-
-Ally 2: [at cell door, lockpicks appear from hidden pocket] "About time. Thought you'd chicken out."
-
-Sulung: "Pun intended?"
-
-Ally 2: [lock clicks open] "Always. Let's move."
-
-[Stealth escape through maintenance tunnels — Ally 2 leads]
-
-Ally 2: [navigating tunnels expertly] "I scouted these tunnels the day I got arrested. 
-Always have exit strategy."
-
-Sulung: "You knew you'd escape?"
-
-Ally 2: "I knew SOMEONE would eventually need what I know. Figured it'd be worth waiting for 
-the right offer."
-
-[Exit through sewer grate into wilderness]
+**Intel Gained from Senja's Decoding:**
+- **PRECISE Location:** Sky Island's position relative to eastern mountain peaks (approximate coordinates)
+- **Approach Method:** Natural updraft at specific peak during dawn (how to get CLOSE)
+- **Final Requirement:** Still need "Sky Key" artifact to complete ascent (confirms Q014 quest)
+- **Academic Connection:** Senja can communicate with Scholar Malik (strengthens Q010 link)
 ```
 
 ---

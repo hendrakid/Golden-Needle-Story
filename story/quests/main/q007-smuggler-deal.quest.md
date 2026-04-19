@@ -44,23 +44,41 @@ tags: ["main", "act2a", "moral-choice", "smuggler", "underground-network", "grey
 ```
 [Hidden tavern basement, dim lighting, shady characters]
 
-Smuggler Boss (Fox): [sizing up Sulung] "A chicken wanting passage through Eagle zones. 
-Either very brave or very stupid."
+Licik (Fox Smuggler Boss): [sizing up Sulung] "You're the chicken asking about Sky Island routes. 
+Word travels fast in my network."
+
+Sulung: [tense] "You're Licik. The one with sky route maps."
+
+Licik: "THE Fox, yes. And you're either very brave or very stupid to come looking for passage 
+through Eagle-controlled airspace."
 
 Sulung: "Desperate."
 
-Boss: "Honest. I like that." [leans back] "Here's the deal. I move goods past eagle patrols. 
-Some legal. Some... less so. You want my network's protection? You work for it."
+Licik: "Honest. I like that." [leans back, pulls out weathered MAP] "Here's the situation. I DO 
+have sky route maps. Air current patterns. Eagle patrol schedules. Blind spots in their territory. 
+This kind of intel? Worth a fortune."
 
-Ally 1: [warning tone] "What kind of work?"
+Taji: [examining map over Licik's shoulder] "That's... DETAILED. How'd you get eagle patrol routes?"
 
-Boss: "Delivery job. My usual courier got caught by eagles last week. Need someone to transport 
-package from here to Mountain Outpost. Dangerous route. But if you succeed... I'll owe you. 
-And my debts get repaid."
+Licik: [grins] "I have friends in low places. And high places. But information isn't free, hunters. 
+You want my network's protection AND my maps? You work for it first."
 
-Sulung: "What's in the package?"
+Sulung: "What kind of work?"
 
-Boss: [smirks] "Does it matter? You want passage or not?"
+Licik: "Delivery job. My usual courier got caught by eagles last week— tragic. Need someone to 
+transport package from here to Mountain Outpost. Dangerous route through restricted zones. But if 
+you succeed..." [taps map] "...this becomes yours. Plus passage assistance when you're ready to fly."
+
+Taji: [warning tone] "What's in the package?"
+
+Licik: [smirks] "Does it matter? You want the maps or not?"
+```
+
+**Intel Offered by Licik (AFTER successful delivery):**
+- **Partial Sky Route Map:** Shows air currents leading toward eastern mountain peaks
+- **Eagle Patrol Schedule:** Gaps in surveillance (best times to approach restricted zones)
+- **Notation on Map:** "Ancient ruins - possible launch point" (feeds into Q008)
+- **Warning:** "Map only shows APPROACH routes. Final destination coordinates... still working on that."
 ```
 
 **PLAYER CHOICE — Accept Job:**

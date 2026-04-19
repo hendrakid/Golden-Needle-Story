@@ -19,9 +19,9 @@ tags: ["main", "act2b", "infiltration", "eagle-outpost", "stealth", "intelligenc
 ---
 
 ### 🎯 Quest Hook
-> Before assaulting Sky Island directly, Sulung needs intelligence: patrol patterns, guard rotations, aerial defense systems, and most importantly — confirmation of Bungsu's location within fortress. Eagle border outpost holds these records. Infiltrate, gather intelligence, escape. Simple plan. Dangerous execution.
+> Armed with EXACT COORDINATES from the Neutral Council (Q011), Sulung now knows where Sky Island floats: above Mount Awan Tinggi. But before attempting direct assault, tactical intelligence is critical. Eagle border outpost holds detailed patrol schedules, defense grid layouts, and — most importantly — PRISONER MANIFESTS confirming Bungsu's current status. Additionally, the outpost armory contains Eagle Talons (required for Sky Key forging in Q014). Infiltrate, gather intelligence, steal talon, escape.
 
-**Emotional Entry Point:** Determination + Tactical Focus (this is reconnaissance, not revenge... yet)
+**Emotional Entry Point:** Determination + Tactical Focus (final preparation before the rescue)
 
 ---
 
@@ -128,25 +128,49 @@ Prisoner (Chicken): [weak, behind bars] "Please... help..."
 ```
 [Archive room — filing cabinets, maps on walls]
 
-[Ally 2, if present, picks vault lock]
+[Senja, if present, picks vault lock using minor magic]
 
-Ally 2: "We're in. Grab what you need. We have maybe 5 minutes before patrol notices door."
+Senja: "We're in. Grab what you need. We have maybe 5 minutes before patrol notices door."
 
 [Sulung searches files]
 
 Sulung: [finds folder] "Sky Island Defense Grid... patrol schedules... aerial countermeasures..."
 
+[Cross-references with Council coordinates from Q011]
+
+Sulung: "These patrol routes... they match the Council's intel. 15-mile perimeter, rotating shifts."
+
 [Finds prisoner manifest]
 
 Sulung: [hands trembling as he scans list] "No... no... no... BUNGSU!"
 
-[Name appears: "BUNGSU - Pink/Yellow - Acquired 47 days ago - Status: Alive - Location: Tower Cell Block D"]
+[Name appears: "BUNGSU - Pink/Yellow - Acquired 47 days ago - Status: ALIVE - Location: Tower Cell Block D"]
 
-Ally 1: "You found her?"
+Taji: "You found her?"
 
-Sulung: [clutching document] "She's alive. She's... she's in Tower Block D."
+Sulung: [clutching document] "She's alive. She's... she's in Tower Block D. North tower, 
+level 3." [looks at Taji] "The coordinates from Council said North courtyard entry. If we 
+reach the courtyard, her cell is accessible."
 
-Ally 2: "Good. Now let's get out before we join her."
+Senja: "Then we know EXACTLY where to go when we reach Sky Island."
+
+Taji: "Good. Now let's get out before we join her."
+
+[OPTIONAL: Steal Eagle Talon from armory on way out]
+
+Sulung: [notices display case] "Wait. Eagle Talon. Ceremonial blade made from talon."
+
+Senja: "That's the component Malik mentioned! For the Sky Key!"
+
+Sulung: [breaks case, takes talon blade] "One more piece secured."
+```
+
+**INTEL & ITEMS ACQUIRED:**
+- ✅ **Defense Grid Map:** Sky Island patrol schedules and aerial countermeasures
+- ✅ **Prisoner Manifest:** BUNGSU CONFIRMED ALIVE, Tower Block D, North Tower Level 3
+- ✅ **Precise Cell Location:** Can plan direct rescue route during Q016 assault
+- ✅ **Eagle Talon (Item):** Component #4 for Sky Key forging (Q014)
+- ✅ **Patrol Gaps:** Best approach window identified (dawn, as ancient map suggested)
 
 [ALARM SOUNDS — guards detected intrusion]
 

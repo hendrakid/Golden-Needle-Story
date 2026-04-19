@@ -14,7 +14,7 @@ Defines the emotional register, prose style, and thematic voice for this game's 
 
 ```
 Primary Tone:   "Epik & Heroik — dunia ini keras, tapi keberanian anak kecil bisa mengubah segalanya"
-Secondary Tone: "Kehangatan di tengah bahaya — persahabatan Sulung & Ajag adalah jangkar emosional cerita"
+Secondary Tone: "Kehangatan di tengah bahaya — persahabatan Sulung & Taji adalah jangkar emosional cerita"
 Forbidden Tone: "Nihilisme tanpa harapan / komedi murahan yang merusak momen serius"
 ```
 

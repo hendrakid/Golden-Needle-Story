@@ -93,7 +93,7 @@ Sulung: "Someone you murdered. But she's still here. With me."
 
 Freed Chicken: "He's here! The one who tried to save us!"
 
-Ally 3 (if Eagle Defector recruited): [addressing eagle guards] "Listen! Rajawali has lied to us all! There was no chicken theft! No perjanjian!"
+Licik (if Rubah assassin recruited): [addressing eagle guards] "Listen! Rajawali has lied to us all! There was no chicken theft! No perjanjian!"
 
 [Commotion spreads — some guards hesitate, others loyal to Rajawali]
 
